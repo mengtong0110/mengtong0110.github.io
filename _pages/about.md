@@ -199,7 +199,7 @@ Honors and Awards
 <div class="publication-entry">
   <ul>
     <li>
-    19th place in Tencent's international CTF competition TCTF finals, 2022.
+    5th place in Tencent's international CTF competition TCTF/0CTF, 2022.
     </li>
   </ul>
 </div>
