@@ -178,7 +178,7 @@ Honors and Awards
 <div class="publication-entry">
   <ul>
     <li>
-    XCTF (SCTF) 5th. 2023/06 
+    International CTF competition XCTF (SCTF) 5th. 2023/06 
     </li>
   </ul>
 </div>
@@ -199,7 +199,7 @@ Honors and Awards
 <div class="publication-entry">
   <ul>
     <li>
-    Tencent CTF finals 19th. 2022/09
+    Tencent's international CTF competition TCTF finals 19th. 2022/09
     </li>
   </ul>
 </div>
@@ -224,14 +224,6 @@ Honors and Awards
     </li>
   </ul>
 </div>
-
-
-
-
-
-
-
-Third Prize in the 6th National "Strong Net Cup" Online Cybersecurity Challenge (August 2022)
 
 
 
