@@ -178,49 +178,49 @@ Honors and Awards
 <div class="publication-entry">
   <ul>
     <li>
-    International CTF competition XCTF (SCTF) 5th. 2023/06 
+    International CTF competition XCTF (SCTF) 5th 2023. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-        The second prize of the 17th National College Student Information Security Contest, East-Northeastern Region. 2023/06
+        The second prize of the 17th National College Student Information Security Contest, East-Northeastern Region 2023.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    The silver Award in International Genetically Engineered Machine Competition. 2022/10 
+    The silver Award in International Genetically Engineered Machine Competition 2022. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Tencent's international CTF competition TCTF finals 19th. 2022/09
+    Tencent's international CTF competition TCTF finals 19th 2022.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    The second prize of the 16th National College Student Information Security Contest. 2022/08
+    The second prize of the 16th National College Student Information Security Contest 2022.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    The third Prize in the 6th National "Strong Net Cup" Online Cybersecurity Challenge. 2022/07
+    The third Prize in the 6th National "Strong Net Cup" Online Cybersecurity Challenge 2022.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    The second prize of the 16th National College Student Information Security Contest, East-Northeastern Region. 2022/06
+    The second prize of the 16th National College Student Information Security Contest, East-Northeastern Region 2022.
     </li>
   </ul>
 </div>
