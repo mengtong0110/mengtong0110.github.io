@@ -2,19 +2,17 @@
 main:
   - title: ""
     url: 
-  - title: ""
-    url: 
-  - title: "  About Me"
+  - title: "&nbsp;About Me"
     url: /#About Me 
   
-  - title: "  Education"
+  - title: "&nbsp;Education"
     url: /#Education 
 
-  - title: "  Publications"
+  - title: "&nbsp;Publications"
     url: /#Publications  
 
-  - title: "  Teaching"
+  - title: "&nbsp;Teaching"
     url: /#Teaching    
   
-  - title: "  Honors and Awards"
+  - title: "&nbsp;Honors and Awards"
     url: /#Honors and Awards   
