@@ -124,7 +124,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Captain for the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 137(top 0.33%) on CTFtime</a> (Summer 2022-Spring 2023). 
+    Captain for the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 137 (top 0.33%) on CTFtime</a> (Summer 2022-Spring 2023). 
     </li>
   </ul>
 </div>
@@ -159,7 +159,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Mentor for the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 1769(top 4.32%) on CTFtime</a> (Fall 2021- Spring2022). 
+    Mentor for the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 1769 (top 4.32%) on CTFtime</a> (Fall 2021- Spring2022). 
     </li>
   </ul>
 </div>
