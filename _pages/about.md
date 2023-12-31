@@ -126,7 +126,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Captain responsible for leading the CTF team NEBULA, which achieved an <a href="https://ctftime.org/team/168863">annual global ranking of 137th (top 0.33% globally) on CTFtime</a> (Summer 2022-Spring 2023). 
+    Captain responsible for leading the CTF team NEBULA, which achieved an <a href="https://ctftime.org/team/168863">annual global ranking of 137th (top 0.33% globally) on CTFtime</a> (Summer 2022-Summer 2023). 
     </li>
   </ul>
 </div>
