@@ -133,7 +133,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Advisor for International Genetically Engineered Machine Competition of USTC software team (Fall 2022-Spring 2023).
+    Advisor for International Genetically Engineered Machine of USTC software team (Fall 2022-Spring 2023).
     </li>
   </ul>
 </div>
