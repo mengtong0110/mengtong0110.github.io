@@ -94,7 +94,7 @@ ul {
   <div class="cv-supervisor">Supervisor: <a href="http://staff.ustc.edu.cn/~ynh/" target="_blank">Prof. Nenghai Yu</a></div>
 </div>
 
-<a name="publications">Publications</a>
+Publications<a name="publications"></a>
 ======
 <div class="publication-entry">
   <ul>
