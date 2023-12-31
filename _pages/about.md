@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 I am a senior undergraduate at the University of Science and Technology of China, set to graduate in 2024. My current focus is on enhancing the data protection of large language models, specifically through differential privacy and watermarking. I have previously been committed to studying for and actively participating in various CTF competitions. If you are interested in my work or have any academic job offers, please feel free to contact me.
 
 Education
@@ -125,6 +127,13 @@ Teaching
   <ul>
     <li>
     Captain for the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 137 (top 0.33%) on CTFtime</a> (Summer 2022-Spring 2023). 
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    Advisor for International Genetically Engineered Machine (IGEM) of USTC software team (Fall 2022-Spring 2023).
     </li>
   </ul>
 </div>
