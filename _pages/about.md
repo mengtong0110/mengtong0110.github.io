@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About Me
 ======
 I am a senior undergraduate at the University of Science and Technology of China, set to graduate in 2024. My current focus is on enhancing the data protection of large language models, specifically through differential privacy and watermarking. I have previously been committed to studying for and actively participating in various CTF competitions. <b>If you are interested in my work or have any academic offers, please feel free to contact me. <br>I am currently pursuing opportunities for internships and PhD positions.</b>
 
@@ -172,5 +172,68 @@ Teaching
     </li>
   </ul>
 </div>
+
+Honors and Awards
+======
+<div class="publication-entry">
+  <ul>
+    <li>
+    XCTF (SCTF) 5th. 2023/06 
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+        The second prize of the 17th National College Student Information Security Contest, East-Northeastern Region. 2023/06
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    The silver Award in International Genetically Engineered Machine Competition. 2022/10 
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    Tencent CTF finals 19th. 2022/09
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    The second prize of the 16th National College Student Information Security Contest. 2022/08
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    The third Prize in the 6th National "Strong Net Cup" Online Cybersecurity Challenge. 2022/07
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    The second prize of the 16th National College Student Information Security Contest, East-Northeastern Region. 2022/06
+    </li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+Third Prize in the 6th National "Strong Net Cup" Online Cybersecurity Challenge (August 2022)
+
+
+
 
 
