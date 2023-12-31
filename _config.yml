@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Meng Tong (童 蒙)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Meng Tong (童 蒙)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mengtong0110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Meng Tong (童 蒙)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior undergraduate at <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China'> University of Science and Technology of China</a>, graduating in 2024. <br><br>Now focused on data security of attack/defense mechanisms in the large language models. <br><br><b>I am actively seeking internships and PhD positions. I love to chat. Please contact me.</b><br><br><b>Last updated:</b>&nbsp; <span id='currentDate'><script>document.write(new Date().getFullYear()+'/'+(new Date().getMonth()+1)+'/'+new Date().getDate());</script></span>"
+  location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ"
+  email            : "mtong@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "USTC_MengTong"
   vine             :
-  weibo            :
+  weibo            : "USTC_Meng_Tong"
   xing             :
   youtube          :
   wikipedia        :
