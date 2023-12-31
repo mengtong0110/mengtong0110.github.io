@@ -140,14 +140,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching Assistant for Design and Practice of Information Security I (Spring 2022, Spring 2023), USTC.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Teaching Assistant for Design and Practice of Information Security II (Spring 2023), USTC.
+    Teaching Assistant for Design and Practice of Information Security I/II (Spring 2022, Spring 2023), USTC.
     </li>
   </ul>
 </div>
