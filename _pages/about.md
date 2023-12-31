@@ -171,7 +171,7 @@ Honors and Awards
 <div class="publication-entry">
   <ul>
     <li>
-    5th place in international CTF competition XCTF (SCTF), 2023. 
+    5th place in XCTF's international CTF competition SCTF, 2023. 
     </li>
   </ul>
 </div>
