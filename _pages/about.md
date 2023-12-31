@@ -126,7 +126,7 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Captain for leading the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 137 (top 0.33%) on CTFtime</a> (Summer 2022-Spring 2023). 
+    Captain leading the CTF team NEBULA, <a href="https://ctftime.org/team/168863">annual global ranking 137 (top 0.33%) on CTFtime</a> (Summer 2022-Spring 2023). 
     </li>
   </ul>
 </div>
@@ -140,28 +140,28 @@ Teaching
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching Assistant for Design and Practice of Information Security I (Spring 2022, Spring 2023).
+    Teaching Assistant for Design and Practice of Information Security I (Spring 2022, Spring 2023), USTC.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching Assistant for Design and Practice of Information Security II (Spring 2023).
+    Teaching Assistant for Design and Practice of Information Security II (Spring 2023), USTC.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching Assistant for Introduction to Cryptography (Spring 2023).
+    Teaching Assistant for Introduction to Cryptography (Spring 2023), USTC.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching Assistant for Software Security and Testing (Fall 2023).
+    Teaching Assistant for Software Security and Testing (Fall 2023), USTC.
     </li>
   </ul>
 </div>
