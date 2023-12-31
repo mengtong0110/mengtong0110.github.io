@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+About Me<a name="About Me"></a>
 ======
 I am a senior undergraduate at the University of Science and Technology of China, set to graduate in 2024. My current focus is on enhancing the data protection of large language models, specifically through differential privacy and watermarking. I have previously been committed to studying for and actively participating in various CTF competitions. <b>If you are interested in my work or have any academic offers, please feel free to contact me. <br>I am currently pursuing opportunities for internships and PhD positions.</b>
 
-Education
+Education<a name="Education"></a>
 ======
 <style>
   body {
@@ -94,7 +94,7 @@ ul {
   <div class="cv-supervisor">Supervisor: <a href="http://staff.ustc.edu.cn/~ynh/" target="_blank">Prof. Nenghai Yu</a></div>
 </div>
 
-Publications<a name="publications"></a>
+Publications<a name="Publications"></a>
 ======
 <div class="publication-entry">
   <ul>
@@ -114,7 +114,7 @@ Publications<a name="publications"></a>
     <p>Figure 2: The workflow of RANTEXT.</p>
 </div>
 
-Teaching 
+Teaching<a name="Teaching"></a>
 ======
 <div class="publication-entry">
   <ul>
@@ -173,7 +173,7 @@ Teaching
   </ul>
 </div>
 
-Honors and Awards
+Honors and Awards<a name="Honors and Awards"></a>
 ======
 <div class="publication-entry">
   <ul>
