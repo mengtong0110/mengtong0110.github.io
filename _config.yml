@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Meng Tong (童 蒙)"
   avatar           : "profile.png"
-  bio              : "Senior undergraduate at <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China'> University of Science and Technology of China</a>, graduating in 2024. <br><br>Now focused on data security of attack/defense mechanisms in the large language models. <br><br><b>I am actively seeking internships and PhD positions. I love to chat. Please contact me.</b><br><br><b>Last updated:</b>&nbsp; <span id='currentDate'><script>document.write(new Date().getFullYear()+'/'+(new Date().getMonth()+1)+'/'+new Date().getDate());</script></span>"
+  bio              : "Senior undergraduate at <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China'> University of Science and Technology of China</a>, graduating in 2024. <br><br>Now focused on data security of attack/defense mechanisms in the large language models. <br><br><b>I am actively seeking internships. I love to chat. Please contact me.</b><br><br><b>Last updated:</b>&nbsp; <span id='currentDate'><script>document.write(new Date().getFullYear()+'/'+(new Date().getMonth()+1)+'/'+new Date().getDate());</script></span>"
   location         : "China"
   employer         :
   pubmed           : 
