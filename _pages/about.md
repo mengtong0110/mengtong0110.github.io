@@ -99,7 +99,8 @@ Publications<a name="Publications"></a>
 <div class="publication-entry">
   <ul>
     <li>
-      <a href="https://arxiv.org/pdf/2310.12214.pdf">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>
+      <a href="https://arxiv.org/pdf/2310.12214.pdf">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" style="color: black;">code</a>]
+
       <div><b>Meng Tong</b>, Kejiang Chen, Jie Zhang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
       <div class="publication-year">arXiv 2023/10/18</div>
     </li>
