@@ -179,6 +179,13 @@ Honors and Awards<a name="Honors and Awards"></a>
 <div class="publication-entry">
   <ul>
     <li>
+    Excellent graduates, USTC, 2024. 
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
     5th place in XCTF's international CTF competition SCTF, 2023. 
     </li>
   </ul>
