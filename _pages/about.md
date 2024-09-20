@@ -107,7 +107,7 @@ Publications<a name="Publications"></a>
   </ul>
 </div>
 <div style="text-align: center;">
-    <img src="inferDPT/InferDPT.png" alt=" The overview of InferDPT." style="width: 90%;"/>
+    <img src="inferDPT/InferDPT1.png" alt=" The overview of InferDPT." style="width: 90%;"/>
     <p>Figure 1: The overview of InferDPT.</p>
 </div>
 
