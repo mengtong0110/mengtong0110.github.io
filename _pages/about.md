@@ -101,7 +101,7 @@ Publications<a name="Publications"></a>
     <li>
       <a href="https://arxiv.org/pdf/2310.12214.pdf">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" style="color: black;">code</a>]
 
-      <div><b>Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj">Kejiang Chen</a>, <a href="https://zjzac.github.io/">Jie Zhang</a>, Yuang Qi, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ">Weiming Zhang</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/">Tianwei Zhang</a>, <a href="http://zhangzhk.com/">Zhikun Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ">Nenghai Yu</a></div>
+      <div><b>Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="color: black;">Jie Zhang</a>, Yuang Qi, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="color: black;">Weiming Zhang</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="color: black;">Tianwei Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="color: black;">Nenghai Yu</a>, <a href="http://zhangzhk.com/" style="color: black;">Zhikun Zhang</a></div>
       <div class="publication-year">arXiv 2023/10/18</div>
     </li>
   </ul>
