@@ -97,7 +97,7 @@ ul {
 <div class="cv-section">
   <div class="cv-date">2017/09-2020/06</div>
   <div class="cv-title">Senior Middle School</div>
-  <div class="cv-institution"><a href="https://en.wikipedia.org/wiki/Sichuan_Chengdu_No.7_High_School" target="_blank">Sichuan Chengdu No.7 High School</a></div>
+  <div class="cv-institution"><a href="https://en.wikipedia.org/wiki/Sichuan_Chengdu_No.7_High_School" style="color: black;">Sichuan Chengdu No.7 High School</a></div>
 </div>
 
 Publications<a name="Publications"></a>
