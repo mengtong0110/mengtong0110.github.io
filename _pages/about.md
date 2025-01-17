@@ -13,7 +13,10 @@ redirect_from:
   <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
   <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
-  <br>My research interests include text sanitization and their evaluation.
+  I used to be the captain of the CTF team 
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and served as a teaching assistant for 
+  <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
+  <br>My research interests include differential privacy techniques and their evaluation.
 </text>
 
 
@@ -146,7 +149,7 @@ ul {
     </li>
   </ul>
 </div>
-<!-- <div class="publication-entry">
+<div class="publication-entry">
   <ul>
     <li>
     Captain of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 137th / top 0.33% globally on CTFtime, <em>2022&nbsp;-&nbsp;2023</em>.
@@ -159,7 +162,7 @@ ul {
     Mentor of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 1769th / top 4.32% globally on CTFtime, <em>2021&nbsp;-&nbsp;2022</em>.
     </li>
   </ul>
-</div> -->
+</div>
 
 <h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Honors and Awards"></a>
 <div class="publication-entry">
@@ -176,7 +179,7 @@ ul {
     </li>
   </ul>
 </div>
-<!-- <div class="publication-entry">
+<div class="publication-entry">
   <ul>
     <li>
     5th place in the international CTF competition SCTF, <em>2023</em>.
@@ -217,7 +220,7 @@ ul {
     2nd prize in the Chinese college student CTF competition, <em>2022</em>.
     </li>
   </ul>
-</div> -->
+</div>
 
 <a class="fixed-tracker" href="https://clustrmaps.com/site/1by7n" title="Visit tracker">
   <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
