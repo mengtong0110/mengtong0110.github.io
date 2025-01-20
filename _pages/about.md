@@ -16,7 +16,7 @@ redirect_from:
   I used to be the captain of the CTF team 
   <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and served as a teaching assistant for 
   <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
-  <br>My research interests include data sanitization and their evaluation.
+  <br><b>My research interests include data sanitization and their evaluation.</b>
 </text>
 
 
