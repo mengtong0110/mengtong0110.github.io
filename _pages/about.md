@@ -138,7 +138,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to give a talk about data sanitization by <a href="https://www.webank.com/en/" style="text-decoration: none;color: black;">Webank</a>, <em>2024</em>.
+    Invited to give a talk about data sanitization by <a href="https://www.webank.com/en/" style="text-decoration: none;color: #005fa3;">Webank</a>, <em>2024</em>.
     </li>
   </ul>
 </div>
