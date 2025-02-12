@@ -95,12 +95,17 @@ ul {
 
 
 <div class="cv-section">
-  <div class="cv-date"><em>2024.09&nbsp;-&nbsp;Now</em>, Master of Cyberscience at USTC</div>
+  <div class="cv-date"><em>2025.02&nbsp;-&nbsp;Now</em>, Research Intern, Purdue</div>
+  <div class="cv-supervisor">Supervisor: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Ninghui Li</a></div>
+</div>
+
+<div class="cv-section">
+  <div class="cv-date"><em>2024.09&nbsp;-&nbsp;Now</em>, Master of Cyberscience, USTC</div>
   <div class="cv-supervisor">Supervisors: <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a></div>
 </div>
 
 <div class="cv-section">
-  <div class="cv-date"><em>2020.09&nbsp;-&nbsp;2024.06</em>, Bachelor of Cyberscience at USTC</div>
+  <div class="cv-date"><em>2020.09&nbsp;-&nbsp;2024.06</em>, Bachelor of Cyberscience, USTC</div>
   <div class="cv-supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Nenghai Yu</a></div>
 </div>
 
