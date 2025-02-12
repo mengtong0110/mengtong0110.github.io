@@ -242,7 +242,7 @@ ul {
 
   const tracker = document.querySelector('.fixed-tracker');
 
-
+  const aaa =1;
   const maxOpacity = 1;
   const minOpacity = 0;
 
