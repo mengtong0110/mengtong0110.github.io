@@ -127,7 +127,7 @@ ul {
       InferDPT: Privacy-Preserving Inference for Black-box Large Language Model&nbsp;&nbsp;[<a href="./InferDPT_tdsc_2025.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
       <div><b>Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a></div>
-      <div class="publication-year">Submitted to IEEE Transactions on Dependable and Secure Computing, 2025 (Minor Revision, TDSC 2025)</div>
+      <div class="publication-year">Submitted to IEEE Transactions on Dependable and Secure Computing, 2025 (TDSC 2025)</div>
     </li>
   </ul>
 </div>
