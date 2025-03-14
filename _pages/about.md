@@ -136,7 +136,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to give a talk about reconstruction attack against text sanitization by <a href="https://2025.naacl.org/" style="text-decoration: none;color: #005fa3;">NAACL</a>, <em>2025</em>.
+    Invited to give a talk about attacks on differential privacy by <a href="https://2025.naacl.org/" style="text-decoration: none;color: #005fa3;">NAACL</a>, <em>2025</em>.
     </li>
   </ul>
 </div>
@@ -150,7 +150,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to give a talk about data sanitization by <a href="https://www.webank.com/en/" style="text-decoration: none;color: #005fa3;">Webank</a>, <em>2024</em>.
+    Invited to give a talk about differential privacy by <a href="https://www.webank.com/en/" style="text-decoration: none;color: #005fa3;">Webank</a>, <em>2024</em>.
     </li>
   </ul>
 </div>
