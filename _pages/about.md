@@ -136,17 +136,18 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to give a talk about attacks on differential privacy by <a href="https://2025.naacl.org/" style="text-decoration: none;color: #005fa3;">NAACL</a>, <em>2025</em>.
+    Invited to review for <text style="font-style: italic;">ACL SRW</text>, <em>2025</em>.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to review for <text style="font-style: italic;">ACL SRW</text> , <em>2025</em>.
+    Invited to give a talk about attacks on differential privacy by <a href="https://2025.naacl.org/" style="text-decoration: none;color: #005fa3;">NAACL</a>, <em>2025</em>.
     </li>
   </ul>
 </div>
+
 <div class="publication-entry">
   <ul>
     <li>
