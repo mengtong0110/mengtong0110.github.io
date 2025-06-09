@@ -143,6 +143,13 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
+    Invited to review for <text style="font-style: italic;">ACL SRW</text> , <em>2025</em>.
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
     Invited to review for <text style="font-style: italic;">IEEE TIFS</text> by <a href="https://chiamuyu.weebly.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Chia-Mu Yu</a>, <em>2024</em>.
     </li>
   </ul>
