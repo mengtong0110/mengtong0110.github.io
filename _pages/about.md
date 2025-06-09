@@ -235,7 +235,7 @@ ul {
 </div>
 
 <a class="fixed-tracker" href="https://clustrmaps.com/site/1by7n" title="Visit tracker">
-  <!-- <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" /> -->
+  <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
 </a>
 
 <style>
