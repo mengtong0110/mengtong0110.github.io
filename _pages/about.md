@@ -15,7 +15,7 @@ redirect_from:
   <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
   I used to be the captain of the CTF team 
   <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and served as a teaching assistant for 
-  <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
+  <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
   <!--<br><b>My research interests include data sanitization and their evaluation.</b>-->
 </text>
 
@@ -96,7 +96,7 @@ ul {
 
 <div class="cv-section">
   <div class="cv-date"><em>2025.02&nbsp;-&nbsp;Now</em>, Research Intern, Purdue</div>
-  <div class="cv-supervisor">Supervisor: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Ninghui Li</a></div>
+  <div class="cv-supervisor">Supervisors: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Ninghui Li</a> and <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a></div>
 </div>
 
 <div class="cv-section">
