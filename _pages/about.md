@@ -14,8 +14,7 @@ redirect_from:
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
   <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
   I used to be the captain of the CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and served as a teaching assistant for 
-  <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA. 
   <!--<br><b>My research interests include data sanitization and their evaluation.</b>-->
 </text>
 
