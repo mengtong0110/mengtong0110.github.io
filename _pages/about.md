@@ -9,7 +9,7 @@ redirect_from:
 ---
 <a name="About Me"></a>
 <text style="font-size: 0.9em;">
-  I am Meng Tong (童蒙), a first-year master's student at the 
+  I am Meng Tong (童蒙), a second-year master's student at the 
   <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
   <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
