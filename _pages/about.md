@@ -113,6 +113,16 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
+      Membership Inference Attacks on Tokenizers of Large Language Models&nbsp;&nbsp;[<a href="" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+
+      <div><b>Meng Tong</b>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
+      <div class="publication-year">arXiv preprint, 2025</div>
+    </li>
+  </ul>
+  </div>
+<div class="publication-entry">
+  <ul>
+    <li>
       On the Vulnerability of Text Sanitization&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
       <div><b>Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
