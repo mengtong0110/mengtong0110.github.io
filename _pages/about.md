@@ -197,6 +197,13 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
+    National Scholarship of China, <em>2025</em>. 
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
     Distinguished graduates of USTC, <em>2024</em>. 
     </li>
   </ul>
