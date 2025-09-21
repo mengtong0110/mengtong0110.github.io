@@ -145,7 +145,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Teaching assistant for <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Wenliang Du</a>'s SEED project, <em>2022&nbsp;-&nbsp;2023</em>.
+    Teaching assistant for <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Wenliang Du</a>'s SEED project, <em>2022&nbsp;-&nbsp;2023</em>.
     </li>
   </ul>
 </div>
