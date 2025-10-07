@@ -113,7 +113,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-      Membership Inference Attacks on Tokenizers of Large Language Models&nbsp;&nbsp;[<a href="" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+      Membership Inference Attacks on Tokenizers of Large Language Models&nbsp;&nbsp;[<a href="./Membership_Inference_Attacks_on_Tokenizers_of_Large_Language_Models.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
       <div><b>Meng Tong</b>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
       <div class="publication-year">arXiv preprint, 2025</div>
