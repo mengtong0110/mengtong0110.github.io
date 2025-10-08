@@ -145,6 +145,13 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
+    Invited to review for <text style="font-style: italic;">AAAI</text>, <em>2025</em>.
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
     Invited to review for <text style="font-style: italic;">ACL ARR</text>, <em>2025</em>.
     </li>
   </ul>
