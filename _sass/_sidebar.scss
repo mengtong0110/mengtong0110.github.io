@@ -69,12 +69,34 @@
    Author profile and links
    ========================================================================== */
 
+// .author__avatar {
+//   display: table-cell;
+//   vertical-align: top;
+//   width: 36px;
+//   // set width only, for non-square avatars
+//   // height: 36px;
+
+//   @include breakpoint($large) {
+//     display: block;
+//     width: auto;
+//     height: auto;
+//   }
+
+//   img {
+//     max-width: 175px;
+//     border-radius: 50%;
+
+//     @include breakpoint($large) {
+//       padding: 5px;
+//       border: 1px solid $border-color;
+//     }
+//   }
+// }
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;  // 添加高度使其成为正方形
 
   @include breakpoint($large) {
     display: block;
@@ -83,8 +105,10 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    width: 100%;  // 宽度100% 使得图片根据父容器宽度等比例缩放
+    height: 100%; // 高度100% 确保图片始终等比缩放并保持正方形
+    object-fit: cover; // 让图片按比例填充并保持裁剪
+    border-radius: 0%; // 去掉圆角，确保方形
 
     @include breakpoint($large) {
       padding: 5px;
@@ -92,6 +116,7 @@
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
