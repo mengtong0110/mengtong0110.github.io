@@ -98,8 +98,8 @@
   height: 75px; // 固定高度，确保容器是正方形
 
   @include breakpoint($large) {
-    width: 130px; // 在大屏幕上调整宽度
-    height: 130px; // 保持正方形
+    width: 190px; // 在大屏幕上调整宽度
+    height: 190px; // 保持正方形
   }
 
   img {
