@@ -31,6 +31,9 @@ redirect_from:
     margin-bottom: 15px;
     padding-left: 20px; /* Add padding to align with bullet */
   }
+  .parent {
+        font-weight: 400; /* 普通字体 */
+    }
   .cv-date {
     margin-bottom: 0px;
     font-size: 0.9em;
@@ -115,7 +118,7 @@ ul {
     <li>
       Membership Inference Attacks on Tokenizers of Large Language Models&nbsp;&nbsp;[<a href="./Membership_Inference_Attacks_on_Tokenizers_of_Large_Language_Models.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
-      <div><b>Meng Tong</b>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
+      <div class="parent"><strong>Meng Tong</strong>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
       <div class="publication-year">arXiv preprint, 2025</div>
     </li>
   </ul>
@@ -125,7 +128,7 @@ ul {
     <li>
       On the Vulnerability of Text Sanitization&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
-      <div><b>Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
+      <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
       <div class="publication-year">In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) 2025 (<b>Oral</b>, Top 2% of Submissions)</div>
     </li>
   </ul>
@@ -135,8 +138,7 @@ ul {
     <li>
       <strong>InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</strong>&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
-      <div>
-      <b style="font-weight: 500;">Meng Tong</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
+      <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
       <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2025</div>
