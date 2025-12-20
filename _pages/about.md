@@ -129,7 +129,7 @@ ul {
       On the Vulnerability of Text Sanitization&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
-      <div class="publication-year">In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) 2025 (<b>Oral</b>, Top 2% of Submissions)</div>
+      <div class="publication-year">In Proceedings of North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) 2025 (<b>Oral</b>, Top 2% of Submissions)</div>
     </li>
   </ul>
   </div>
