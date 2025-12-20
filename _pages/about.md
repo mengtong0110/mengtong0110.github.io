@@ -28,13 +28,13 @@ redirect_from:
     line-height: 1.6;
   }
 .title-banner {
-    width: 60px;              /* 固定长度，可自行调整 */
+    width: 10px;              /* 固定长度，可自行调整 */
     box-sizing: border-box;    /* padding 包含在 width 内 */
     background-color: #e25a43;
     color: #ffffff;
-    font-size: 36px;
-    font-weight: 600;
-    padding: 24px 32px;
+    font-size: 0.9em;
+    font-weight: 300;
+    padding: 32px 32px;
     font-family: "Segoe UI", Arial, sans-serif;
 }
   .cv-section {
@@ -42,7 +42,7 @@ redirect_from:
     padding-left: 20px; /* Add padding to align with bullet */
   }
   .parent {
-        font-weight: 400; /* 普通字体 */
+        font-weight: 300; /* 普通字体 */
     }
   .cv-date {
     margin-bottom: 0px;
@@ -145,7 +145,7 @@ ul {
   </div>
 <div class="publication-entry">
   <ul>
-      <span class="title-banner"> TDSC </span><strong>InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</strong>&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+      <span class="title-banner">TDSC</span><strong>InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</strong>&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
 
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
