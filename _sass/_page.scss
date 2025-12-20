@@ -35,18 +35,18 @@
 }
 
 
-// #main .page {
-//   width: 100% ;
-//   max-width: 100% ;
-//   margin-left: 0 ;
-//   margin-right: 0 ;
-// }
+#main .page {
+  width: 80% ;
+  max-width: 80% ;
+  margin-left: 300em ;
+  margin-right: 300em ;
+}
 
 // #main .page__inner-wrap,
-#main .page__content {
-  width: 80% !important;
-  max-width: none !important;
-}
+// #main .page__content {
+//   width: 80% !important;
+//   max-width: none !important;
+// }
 
 
 .page__title {
