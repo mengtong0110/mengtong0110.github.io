@@ -150,7 +150,7 @@ ul {
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
       <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing, 2025</div>
-      <div>[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: blue">PDF</a>]&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: blue">Code</a>]</div>
+      <div>[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3">PDF</a>]&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3">Code</a>]</div>
   </ul>
 </div>
 
