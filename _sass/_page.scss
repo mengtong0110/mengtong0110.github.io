@@ -38,13 +38,8 @@
 #main .page {
   width: 60%;
   max-width: 65%;
-  margin-left: -10%;
+  margin-left: 10%;
   box-sizing: border-box;
-
-  @include breakpoint($large) {
-    width: 50%;
-    margin-left: -5%; /* 更精细的调整 */
-  }
 }
 
 
