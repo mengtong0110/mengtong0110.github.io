@@ -135,19 +135,26 @@ ul {
   </div>
 <div class="publication-entry">
   <ul>
-    <li>
-      On the Vulnerability of Text Sanitization&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
-
+      <div class="parent" style="font-weight: bolder;">
+      <p style="color: #8c1515; display: inline;">
+      [NAACL'25, Oral]
+      </p>
+      &nbsp;On the Vulnerability of Text Sanitization
+      </div>
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
-      <div class="publication-year">In Proceedings of North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) 2025 (<b>Oral</b>, Top 2% of Submissions)</div>
-    </li>
+      <div class="publication-year">In Proceedings of North American Chapter of the Association for Computational Linguistics, 2025 </div>
+      <div style="font-size: 90%;">
+      <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[PDF]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      </div>
   </ul>
   </div>
 <div class="publication-entry">
   <ul>
       <div class="parent" style="font-weight: bolder;">
-      <p style="color: #8c1515; display: inline;">
-      [TDSC'25]</p>&nbsp;InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model</div>
+        <p style="color: #8c1515; display: inline;">
+        [TDSC'25]</p>
+        &nbsp;InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model
+      </div>
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
