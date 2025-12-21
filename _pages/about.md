@@ -145,7 +145,7 @@ ul {
   </div>
 <div class="publication-entry">
   <ul>
-      <p style="color: red;">[TDSC'25] </p> <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>
+      <p style="color: #8c1515; display: inline;">[TDSC'25]</p> <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>
 
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
