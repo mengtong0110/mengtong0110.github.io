@@ -36,10 +36,11 @@
 
 
 #main .page {
-  width: 65% ;
-  max-width: 65% ;
+  width: 60% ;
+  max-width: 60% ;
   margin-left: 5em ;
   margin-right: 0 ;
+  transform: translateX(-200em);
 }
 
 // #main .page__inner-wrap,
