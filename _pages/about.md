@@ -303,7 +303,7 @@ ul {
 <style>
   .fixed-tracker {
     position: fixed;
-    right: 20%;
+    right: 0%;
     top: 35%;
     transform: translateY(-50%);
     z-index: 9999;
