@@ -124,7 +124,6 @@ ul {
 
 <h3 style="font-size: 23px;"> Publications</h3><a name="Publications"></a>
 <div class="publication-entry">
-  <ul>
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
       [USENIX Security'26]
@@ -135,9 +134,12 @@ ul {
       <div class="publication-year">In USENIX Security Symposium, 2026</div>
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <p style="color: #8c1515; display: inline;">
+      (The first study that reveals the vulnerabilities of membership leakage in LLMs' tokenizers)
+      </p>
       </div>
-  </ul>
-  </div>
+</div>
+<br>
 <div class="publication-entry">
       <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
@@ -154,6 +156,7 @@ ul {
       </p>
       </div>
   </div>
+<br>
 <div class="publication-entry">
       <div class="parent" style="font-weight: bolder;">
         <p style="color: #8c1515; display: inline;">
@@ -166,7 +169,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      (The first framework to implement differential privacy in text generation)
+      (The first framework to implement differential privacy in the text generation of LLMs)
       </p>
       </div>
 </div>
