@@ -304,7 +304,7 @@ ul {
   .fixed-tracker {
     position: fixed;
     right: -12em;
-    top: -10em;
+    top: 5em;
     transform: translateY(-50%);
     z-index: 9999;
     opacity: 1; /* 初始状态完全可见 */
