@@ -139,10 +139,9 @@ ul {
   </ul>
   </div>
 <div class="publication-entry">
-  <ul>
       <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
-      [NAACL'25]
+      [NAACL'25, Oral]
       </p>
       &nbsp;On the Vulnerability of Text Sanitization
       </div>
@@ -152,10 +151,9 @@ ul {
       <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       &nbsp;
       <p style="color: #8c1515; display: inline;">
-      (Oral, 2% of Submissions)
+      (The first work that establishes theoretically optimal reconstruction attacks against text sanitization)
       </p>
       </div>
-  </ul>
   </div>
 <div class="publication-entry">
       <div class="parent" style="font-weight: bolder;">
