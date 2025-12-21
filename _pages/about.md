@@ -151,7 +151,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first work on optimal reconstruction attacks against text sanitization]
+      [TL;DR: Establish optimal reconstruction attacks against text sanitization]
       </p>
       </div>
   </div>
