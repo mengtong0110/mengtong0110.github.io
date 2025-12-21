@@ -135,7 +135,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      TL;DR: The first study that reveals the membership leakage of LLMs' pretraining data via tokenizers
+      (The first study that reveals the membership leakage of LLMs' pretraining data via tokenizers)
       </p>
       </div>
 </div>
@@ -151,7 +151,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      TL;DR: The first work that establishes optimal reconstruction attacks against text sanitization
+      (The first work that establishes optimal reconstruction attacks against text sanitization)
       </p>
       </div>
   </div>
@@ -167,7 +167,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      TL;DR: The first framework to implement differential privacy in the text generation of LLMs
+      (The first framework to implement differential privacy in the text generation of LLMs)
       </p>
       </div>
 </div>
