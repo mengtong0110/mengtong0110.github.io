@@ -135,7 +135,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first study that reveals the membership leakage of LLMs' pretraining data via tokenizers]
+      [TL;DR: The first study to introduce tokenizers as a new attack vector for MIAs against LLMs]
       </p>
       </div>
 </div>
