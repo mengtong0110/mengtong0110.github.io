@@ -42,7 +42,7 @@ redirect_from:
     padding-left: 20px; /* Add padding to align with bullet */
   }
   .parent {
-        font-weight: 300; /* 普通字体 */
+        font-weight: 500; /* 普通字体 */
     }
   .cv-date {
     margin-bottom: 0px;
@@ -145,12 +145,13 @@ ul {
   </div>
 <div class="publication-entry">
   <ul>
-      <strong>InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</strong>&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+      <p style="color: red;">[TDSC'25] </p> <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #005fa3;">InferDPT: Privacy-Preserving Inference for Black-box Large Language Model</a>
 
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
       <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
-      <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2025</div>
+      <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing, 2025</div>
+      <div>[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]</div>
   </ul>
 </div>
 
