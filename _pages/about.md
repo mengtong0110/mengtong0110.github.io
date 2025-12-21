@@ -134,7 +134,7 @@ ul {
       <div class="parent"><strong>Meng Tong</strong>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
       <div class="publication-year">In USENIX Security Symposium, 2026</div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[PDF]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       </div>
   </ul>
   </div>
@@ -149,14 +149,15 @@ ul {
       <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
       <div class="publication-year">In North American Chapter of the Association for Computational Linguistics, 2025 </div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[PDF]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>&nbsp;<p style="color: #8c1515; display: inline;">
+      <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      &nbsp;
+      <p style="color: #8c1515; display: inline;">
       (Oral, 2% of Submissions)
       </p>
       </div>
   </ul>
   </div>
 <div class="publication-entry">
-  <ul>
       <div class="parent" style="font-weight: bolder;">
         <p style="color: #8c1515; display: inline;">
         [TDSC'25]</p>
@@ -166,9 +167,12 @@ ul {
       </div>
       <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing, 2025</div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[PDF]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+            &nbsp;
+      <p style="color: #8c1515; display: inline;">
+      (The first framework to implement differential privacy in text generation)
+      </p>
       </div>
-  </ul>
 </div>
 
 <h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
