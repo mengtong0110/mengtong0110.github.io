@@ -135,7 +135,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first study revealing membership leakage from the tokenizers of state-of-the-art LLMs]
+      [TL;DR: The first study revealing membership leakage from tokenizers of state-of-the-art LLMs]
       </p>
       </div>
 </div>
