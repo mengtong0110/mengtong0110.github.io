@@ -162,8 +162,7 @@ ul {
         [TDSC'25]</p>
         &nbsp;InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model
       </div>
-      <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>,
-      <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
+      <div class="parent"><strong>Meng Tong</strong>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
       <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing, 2025</div>
       <div style="font-size: 90%;">
