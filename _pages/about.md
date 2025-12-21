@@ -167,7 +167,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first implementation of DP in text generation of LLMs]
+      [TL;DR: The first implementation of differential privacy in text generation of LLMs]
       </p>
       </div>
 </div>
@@ -304,7 +304,7 @@ ul {
   .fixed-tracker {
     position: fixed;
     right: -12em;
-    top: 35%;
+    top: -10em;
     transform: translateY(-50%);
     z-index: 9999;
     opacity: 1; /* 初始状态完全可见 */
