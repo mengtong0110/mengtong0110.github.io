@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name1             : "&nbsp;Meng&nbsp;Tong"
-  name2            : "&nbsp;童 蒙&nbsp;"
+  name2            : "&ensp;童 蒙&nbsp;"
   avatar           : "profile_1.jpg"
   bio              : "Privacy Enhancement <br>& Trustworthy ML"
   #location         : "China"
