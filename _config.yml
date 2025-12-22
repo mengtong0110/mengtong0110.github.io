@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Tong 童蒙"
+  name1             : "Meng Tong"
+  name2            : "童蒙"
   avatar           : "profile_1.jpg"
   bio              : "Privacy Enhancement <br>& Trustworthy ML"
   #location         : "China"
