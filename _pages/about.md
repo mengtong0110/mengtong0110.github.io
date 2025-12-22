@@ -12,14 +12,14 @@ redirect_from:
   I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a reserach assitant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.<br><br>
 
-  I was the captain of the CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked in the top 0.33% globally. During my leadership, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project.
+  I was the captain of CTF team 
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked in the top 0.3% globally under my leadership. During this period, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project, guiding young Chinese professors.
   <!--<br><b>My research interests include data sanitization and their evaluation.</b>-->
 </div>
 
 
 
-<h3 style="font-size: 23px;"> Education</h3><a name="Education"></a>
+<!-- <h3 style="font-size: 23px;"> Education</h3><a name="Education"></a> -->
 <style>
   body {
     font-family: 'Arial', sans-serif;
