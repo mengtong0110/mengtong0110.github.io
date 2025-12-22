@@ -9,12 +9,11 @@ redirect_from:
 ---
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  I am Meng Tong (童蒙), a second-year master's student at the 
-  <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
-  <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
-  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
-  I used to be the captain of the CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. 
+  I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
+  Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a reserach assitant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working closely with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.<br>
+
+  I was the captain of the CTF team 
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked in the top 0.33% globally. During my leadership, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project.
   <!--<br><b>My research interests include data sanitization and their evaluation.</b>-->
 </div>
 
@@ -105,7 +104,7 @@ ul {
 }
 </style>
 
-
+<!-- 
 <div class="cv-section">
   <div class="cv-date"><em>2025.02&nbsp;-&nbsp;Now</em>, Research Intern, Purdue</div>
   <div class="cv-supervisor">Supervisors: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Ninghui Li</a> and <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a></div>
@@ -119,7 +118,7 @@ ul {
 <div class="cv-section">
   <div class="cv-date"><em>2020.09&nbsp;-&nbsp;2024.06</em>, Bachelor of Cyberscience, USTC</div>
   <div class="cv-supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Nenghai Yu</a></div>
-</div>
+</div> -->
 
 
 <h3 style="font-size: 23px;"> Publications</h3><a name="Publications"></a>
@@ -198,7 +197,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to review for <text style="font-style: italic;">IEEE TIFS</text> by <a href="https://chiamuyu.weebly.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Chia-Mu Yu</a>, <em>2024</em>.
+    Invited to review for <text style="font-style: italic;">IEEE TIFS</text>, <em>2024</em>.
     </li>
   </ul>
 </div>
