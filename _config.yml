@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Tong (童蒙)"
+  name             : "Meng Tong <br>童蒙"
   avatar           : "profile_1.jpg"
-  bio              : "Privacy Enhancement & Trustworthy Machine Learning"
+  bio              : "Privacy Enhancement & Trustworthy ML"
   #location         : "China"
   employer         :
   pubmed           : 
