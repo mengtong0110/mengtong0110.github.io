@@ -44,11 +44,11 @@ redirect_from:
             <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
         </li><br>
-        <li style="display: inline-block; margin-right: 10px;">
+        <!-- <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
           </a>
-        </li>
+        </li> -->
         <li style="display: inline-block; margin-right: 10px;">
           <a href="mailto:mtong@mail.ustc.edu.cn" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn
