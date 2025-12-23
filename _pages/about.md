@@ -174,9 +174,9 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 23px; margin-top: -5px;"> Publications</h3><a name="Publications"></a>
+<h3 style="font-size: 23px;"> Publications</h3><a name="Publications"></a>
 <div class="publication-entry;">
-  <div class="parent" style="font-weight: bolder; margin-top: -10px;">
+  <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
       [Security'26]
       </p>
