@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
-<img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 300px; height: auto;">
+<img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 250px; height: auto;">
   </div>
 
   <!-- 右侧文本内容 -->
@@ -45,12 +45,12 @@ redirect_from:
           </a>
         </li>
         <p style="margin-bottom: 5px;"></p>
-        <li style="display: inline-block; margin-right: 0px;">
+        <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
           </a>
         </li>
-        <li style="display: inline-block;">
+        <li style="display: inline-block; margin-right: 10px;">
           <a href="mailto:mtong@mail.ustc.edu.cn" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn
           </a>
