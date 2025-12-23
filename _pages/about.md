@@ -61,7 +61,7 @@ redirect_from:
 </div>
 
 
-<div style="font-size: 0.9em; width: 90%; text-align: left; margin-top: -10px;">
+<div style="font-size: 0.9em; width: 90%; text-align: left; ">
   <p style="margin-bottom: 20px;">I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.</p>
 
@@ -174,9 +174,9 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 23px;"> Publications</h3><a name="Publications"></a>
-<div class="publication-entry; margin-top: -20px;">
-  <div class="parent" style="font-weight: bolder; margin-top: -20px;">
+<h3 style="font-size: 23px; margin-top: -10px;"> Publications</h3><a name="Publications"></a>
+<div class="publication-entry; margin-top: -10px;">
+  <div class="parent" style="font-weight: bolder; ">
       <p style="color: #8c1515; display: inline;">
       [Security'26]
       </p>
