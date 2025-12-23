@@ -27,42 +27,36 @@ layout: default
     <div class="page__inner-wrap">
       
     {% if page.author_profile or layout.author_profile or page.sidebar %}
-
     <div style="display: flex; width: 100%; gap: 20px;">
       <!-- 左侧图片 -->
       <div style="flex: 1; padding: 10px; display: flex; justify-content: center;">
-        {% if page.sidebar %}
-          {% for s in page.sidebar %}
-            {% if s.image %}
-              <img src="{% if s.image contains '://' %}{{ s.image }}{% else %}{{ s.image | prepend: '/images/' | prepend: base_path }}{% endif %}" 
-                   alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}" style="max-width: 100%; height: auto;">
-            {% endif %}
-          {% endfor %}
-        {% endif %}
+        <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 100%; height: auto;">
       </div>
-    
+
       <!-- 右侧文本内容 -->
       <div style="flex: 1; padding: 10px;">
-        {% if page.author_profile or layout.author_profile %}
-          {% include author-profile.html %}
-        {% endif %}
-    
-        {% if page.sidebar %}
-          {% for s in page.sidebar %}
-            {% if s.title %}
-              <h3>{{ s.title }}</h3>
-            {% endif %}
-            {% if s.text %}
-              <div>{{ s.text | markdownify }}</div>
-            {% endif %}
-          {% endfor %}
-          {% if page.sidebar.nav %}
-            {% include nav_list nav=page.sidebar.nav %}
-          {% endif %}
-        {% endif %}
+        <div itemscope itemtype="http://schema.org/Person">
+          <div class="author__content">
+            <div class="author__name">
+              <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
+              <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
+            </div>
+            <p class="author__bio" style="font-size: 14px;">
+              Privacy Enhancement <br> & Trustworthy ML
+            </p>
+          </div>
+
+          <div class="author__urls-wrapper">
+            <button class="btn btn--inverse">Follow</button>
+            <ul class="author__urls social-icons">
+              <li><a href="https://twitter.com/mengtong0110"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+              <li><a href="https://mengtong0110.github.io/wechat.jpg"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat</a></li>
+              <li><a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+              <li><a href="mailto:mtong@mail.ustc.edu.cn"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn</a></li>
+            </ul>
+          </div>
+        </div>
       </div>
-    </div>
-    
 
 
   {% endif %} 
