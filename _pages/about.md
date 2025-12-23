@@ -230,42 +230,42 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>National Scholarship</strong>, <em>China</em>, <em>2025</em>. 
+    National Scholarship, <em>China</em>, <em>2025</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>Distinguished Graduates</strong>, <em>USTC</em>, <em>2024</em>. 
+    Distinguished Graduates, <em>USTC</em>, <em>2024</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>Honors Bachelor from Gifted Student Program</strong>, <em>USTC</em>, <em>2024</em>. 
+    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>2nd Prize in National University CTF Competition</strong>, <em>China</em>, <em>2023</em>.
+    2nd Prize in National University CTF Competition, <em>China</em>, <em>2023</em>.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>2nd Prize in Strong Net CTF Competition</strong>, <em>China</em>, <em>2022</em>.
+    2nd Prize in Strong Net CTF Competition, <em>China</em>, <em>2022</em>.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>5th Place in Tencent Internation CTF Competition</strong>, <em>Global</em>, <em>2022</em>.
+    5th Place in Tencent Internation CTF Competition, <em>Global</em>, <em>2022</em>.
     </li>
   </ul>
 </div>
@@ -275,14 +275,14 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
+    Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>External&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICLR&nbsp;,ICML,&nbsp;IEEE&nbsp;ToN</div>
+   External&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICLR&nbsp;,ICML,&nbsp;IEEE&nbsp;ToN</div>
     </li>
   </ul>
 </div>
