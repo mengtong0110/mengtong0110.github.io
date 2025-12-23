@@ -14,21 +14,29 @@ redirect_from:
           <div style="flex: 1; padding: 10px; display: flex; justify-content: center;">
             <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 100%; height: auto;">
           </div>
+          <div class="author__content">
+            <div class="author__name">
+              <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
+              <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
+            </div>
+            <p class="author__bio" style="font-size: 14px;">
+              Privacy Enhancement <br> & Trustworthy ML
+            </p>
+          </div>
           <div style="flex: 1; padding: 10px;">
             <div itemscope itemtype="http://schema.org/Person">
-              <div class="author__content">
-                <div class="author__name">
-                  <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
-                  <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
-                </div>
-                <p class="author__bio" style="font-size: 14px;">
-                  Privacy Enhancement <br> & Trustworthy ML
-                </p>
+              <div class="author__urls-wrapper">
+                <button class="btn btn--inverse">Follow</button>
+                <ul class="author__urls social-icons">
+                  <li><a href="https://twitter.com/mengtong0110"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                  <li><a href="https://mengtong0110.github.io/wechat.jpg"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat</a></li>
+                  <li><a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+                  <li><a href="mailto:mtong@mail.ustc.edu.cn"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn</a></li>
+                </ul>
               </div>
             </div>
           </div>
-</div>       
-
+</div>
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
