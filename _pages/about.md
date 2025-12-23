@@ -36,7 +36,7 @@ redirect_from:
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
         <li style="display: inline-block; margin-right: 10px;">
           <a href="https://twitter.com/mengtong0110" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter&nbsp;
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
         <li style="display: inline-block; margin-right: 10px;">
