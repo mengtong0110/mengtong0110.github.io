@@ -11,12 +11,12 @@ redirect_from:
 
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
-  <div style="flex: 0.4; padding: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 100%; height: auto;">
+  <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 200%; height: auto;">
   </div>
 
   <!-- 右侧文本内容 -->
-  <div style="flex: 0.6; padding: 10px; display: flex; flex-direction: column; justify-content: center;">
+  <div style="flex: 0.5; padding: 10px; display: flex; flex-direction: column; justify-content: center;">
     <div class="author__content">
       <div class="author__name" style="font-family: 'Times New Roman', serif; font-size: 28px; font-weight: bold; margin-bottom: 10px;">
         Meng Tong
@@ -39,6 +39,7 @@ redirect_from:
             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
+        <br>
         <li style="display: inline-block; margin-right: 10px;">
           <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
