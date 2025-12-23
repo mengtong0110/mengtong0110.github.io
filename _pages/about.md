@@ -61,7 +61,7 @@ redirect_from:
 </div>
 
 
-<div style="font-size: 0.9em; width: 90%; text-align: left; margin-top: -20px;">
+<div style="font-size: 0.9em; width: 90%; text-align: left; margin-top: -10px;">
   <p style="margin-bottom: 20px;">I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.</p>
 
