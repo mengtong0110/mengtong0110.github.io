@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="display: flex; width: 100%; gap: 30px; align-items: center; margin-top: -20px;">
+<div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
 <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px; height: 195px;">
@@ -61,8 +61,7 @@ redirect_from:
 </div>
 
 
-<a name="About Me"></a>
-<div style="font-size: 0.9em; width: 90%; text-align: left;">
+<div style="font-size: 0.9em; width: 90%; text-align: left; margin-top: -20px;">
   <p style="margin-bottom: 20px;">I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.</p>
 
