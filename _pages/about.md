@@ -229,14 +229,14 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;,IEEE&nbsp;TIFS
+    <strong>Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:</strong><div class="publication-year">&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    External&nbsp;Reviewer:&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;,ICLR&nbsp;,ICML,IEEE&nbsp;ToN
+    <strong>External&nbsp;Reviewer:</strong><div class="publication-year">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;,ICLR&nbsp;,ICML,IEEE&nbsp;ToN</div>
     </li>
   </ul>
 </div>
