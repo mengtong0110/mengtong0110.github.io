@@ -28,38 +28,41 @@ layout: default
       
     {% if page.author_profile or layout.author_profile or page.sidebar %}
 
-   <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; padding: 10px;">
-    {% if page.sidebar %}
-      {% for s in page.sidebar %}
-        {% if s.image %}
-          <img src="{% if s.image contains '://' %}{{ s.image }}{% else %}{{ s.image | prepend: '/images/' | prepend: base_path }}{% endif %}" 
-               alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}" style="max-width: 100%; height: auto;">
+    <div style="display: flex; width: 100%; gap: 20px;">
+      <!-- 左侧图片 -->
+      <div style="flex: 1; padding: 10px; display: flex; justify-content: center;">
+        {% if page.sidebar %}
+          {% for s in page.sidebar %}
+            {% if s.image %}
+              <img src="{% if s.image contains '://' %}{{ s.image }}{% else %}{{ s.image | prepend: '/images/' | prepend: base_path }}{% endif %}" 
+                   alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}" style="max-width: 100%; height: auto;">
+            {% endif %}
+          {% endfor %}
         {% endif %}
-      {% endfor %}
-    {% endif %}
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    {% if page.author_profile or layout.author_profile %}
-      {% include author-profile.html %}
-    {% endif %}
-
-    {% if page.sidebar %}
-      {% for s in page.sidebar %}
-        {% if s.title %}
-          <h3>{{ s.title }}</h3>
+      </div>
+    
+      <!-- 右侧文本内容 -->
+      <div style="flex: 1; padding: 10px;">
+        {% if page.author_profile or layout.author_profile %}
+          {% include author-profile.html %}
         {% endif %}
-        {% if s.text %}
-          <div>{{ s.text | markdownify }}</div>
+    
+        {% if page.sidebar %}
+          {% for s in page.sidebar %}
+            {% if s.title %}
+              <h3>{{ s.title }}</h3>
+            {% endif %}
+            {% if s.text %}
+              <div>{{ s.text | markdownify }}</div>
+            {% endif %}
+          {% endfor %}
+          {% if page.sidebar.nav %}
+            {% include nav_list nav=page.sidebar.nav %}
+          {% endif %}
         {% endif %}
-      {% endfor %}
-      {% if page.sidebar.nav %}
-        {% include nav_list nav=page.sidebar.nav %}
-      {% endif %}
-    {% endif %}
-  </div>
-</div>
+      </div>
+    </div>
+    
 
 
   {% endif %} 
