@@ -25,7 +25,7 @@ redirect_from:
         童 蒙
       </div>
       <p class="author__bio" style="font-size: 14px; line-height: 1.6; margin-bottom: 20px;">
-        Privacy Enhancement <br> & Trustworthy ML
+        Privacy Enhancement <br> & Trustworthy Machine Learning
       </p>
     </div>
     <!-- 个人链接 -->
