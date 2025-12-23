@@ -226,7 +226,7 @@ ul {
 </div>
 
 
-<h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Selected Awards"></a>
+<h3 style="font-size: 23px;"> Selected Honors & Awards</h3>
 <div class="publication-entry">
   <ul>
     <li>
@@ -271,7 +271,7 @@ ul {
 </div>
 
 
-<h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
+<h3 style="font-size: 23px;"> Professional Experiences</h3>
 <div class="publication-entry">
   <ul>
     <li>
@@ -282,7 +282,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    <strong>External&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICLR&nbsp;,ICML,IEEE&nbsp;ToN</div>
+    <strong>External&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICLR&nbsp;,ICML,&nbsp;IEEE&nbsp;ToN</div>
     </li>
   </ul>
 </div>
@@ -292,39 +292,5 @@ ul {
 <a class="fixed-tracker" href="https://clustrmaps.com/site/1by7n" title="Visit tracker">
   <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
 </a>
-<!-- 
-<style>
-  .fixed-tracker {
-    position: fixed;
-    right: 3em;
-    top:15em;
-    transform: translateY(-50%);
-    z-index: 9999;
-    opacity: 1; /* 初始状态完全可见 */
-    transition: opacity 0.3s ease; /* 平滑过渡效果 */
-  }
-</style>
-
-<!-- <script>
-
-  const tracker = document.querySelector('.fixed-tracker');
-
-  const aaa =1;
-  const maxOpacity = 1;
-  const minOpacity = 0;
-
- 
-  window.addEventListener('scroll', function () {
-    const scrollPosition = window.scrollY;  
-    const maxScroll = document.documentElement.scrollHeight - window.innerHeight;  
-    const opacity = 1 - (scrollPosition / maxScroll)*4;  
-    tracker.style.opacity = Math.max(minOpacity, Math.min(opacity, maxOpacity));
-  });
-</script>  -->
-
-
-
-
-
 
 
