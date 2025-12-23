@@ -147,18 +147,23 @@
     margin-bottom: 20px;
   }
 }
-
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
+
+  /* 设置更小的 line-height，减少行间距 */
+  line-height: 1.1; /* 可根据需要进一步调整 */
+
+  /* 调整列表项之间的间距 */
   li {
-    margin-bottom: 3px;  /* 调整为较小的间距 */
+    margin-bottom: 2px;  /* 再次调整为更小的间距 */
+    padding: 0;  /* 确保没有额外的 padding */
   }
+
   li:last-child {
     a {
       margin-bottom: 0;
@@ -177,6 +182,7 @@
     }
   }
 }
+
 
 .author__urls {
   display: none;
