@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
-<img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px; height: 195px; margin-right: 30px;">
+<img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px; height: auto; margin-right: 30px;">
   </div>
 
   <!-- 右侧文本内容 -->
@@ -30,9 +30,9 @@ redirect_from:
     </div>
     <!-- 个人链接 -->
     <div class="author__urls-wrapper">
-      <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
+      <!-- <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
         Follow
-      </button>
+      </button> -->
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
         <!-- <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
@@ -67,7 +67,7 @@ redirect_from:
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.</p>
 
   <p>I was the captain of CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked globally in the top 0.33%. During this time, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project, mentoring young Chinese professors on classical system vulnerabilities.</p>
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked globally in the top 0.33%. During this time, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project.</p>
 </div>
 
 
