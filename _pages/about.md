@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.4; padding: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 80%; height: auto; border-radius: 50%;">
+    <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 80%; height: auto; border: 3px solid #ddd;">
   </div>
 
   <!-- 右侧文本内容 -->
@@ -28,7 +28,6 @@ redirect_from:
         Privacy Enhancement <br> & Trustworthy ML
       </p>
     </div>
-
     <!-- 个人链接 -->
     <div class="author__urls-wrapper">
       <button class="btn btn--inverse" style="margin-bottom: 15px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
@@ -41,13 +40,13 @@ redirect_from:
           </a>
         </li>
         <li style="display: inline-block; margin-right: 10px;">
-          <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
+          <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
+            <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
         </li>
         <li style="display: inline-block; margin-right: 10px;">
-          <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
+          <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
+            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
           </a>
         </li>
         <li style="display: inline-block;">
