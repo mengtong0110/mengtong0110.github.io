@@ -230,42 +230,42 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    National Scholarship, <em>China</em>, <em>2025</em>. 
+    <strong>National Scholarship</strong>, <em>China</em>, <em>2025</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Distinguished graduates of USTC, <em>2024</em>. 
+    <strong>Distinguished Graduates</strong>, <em>USTC</em>, <em>2024</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Honors bachelor from the gifted student program at USTC, <em>2024</em>.
+    <strong>Honors Bachelor from Gifted Student Program</strong>, <em>USTC</em>, <em>2024</em>. 
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese college student CTF competition, <em>2023</em>.
+    <strong>2nd Prize in National University CTF Competition</strong>, <em>China</em>, <em>2023</em>.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese "strong net" CTF competition, <em>2022</em>.
+    <strong>2nd Prize in Strong Net CTF Competition</strong>, <em>China</em>, <em>2022</em>.
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    5th place in Tencent’s international CTF competition TCTF/0CTF, <em>2022</em>.
+    <strong>5th Place in Tencent Internation CTF Competition</strong>, <em>Global</em>, <em>2022</em>.
     </li>
   </ul>
 </div>
