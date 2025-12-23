@@ -13,15 +13,15 @@ redirect_from:
           <!-- 左侧图片 -->
           <div style="flex: 1; padding: 10px; display: flex; justify-content: center;">
             <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="author__content">
-            <div class="author__name">
-              <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
-              <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
+            <div class="author__content">
+              <div class="author__name">
+                <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
+                <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
+              </div>
+              <p class="author__bio" style="font-size: 14px;">
+                Privacy Enhancement <br> & Trustworthy ML
+              </p>
             </div>
-            <p class="author__bio" style="font-size: 14px;">
-              Privacy Enhancement <br> & Trustworthy ML
-            </p>
           </div>
           <div style="flex: 1; padding: 10px;">
             <div itemscope itemtype="http://schema.org/Person">
