@@ -44,7 +44,7 @@ redirect_from:
             <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
         </li>
-        <p style="margin-bottom: 5px;"></p>
+        <br style="margin-bottom: 0px;">
         <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
