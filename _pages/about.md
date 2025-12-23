@@ -225,28 +225,12 @@ ul {
       </div>
 </div>
 
-<h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
-<div class="publication-entry">
-  <ul>
-    <li>
-    <strong>Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:</strong><div class="publication-year">&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    <strong>External&nbsp;Reviewer:</strong><div class="publication-year">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;,ICLR&nbsp;,ICML,IEEE&nbsp;ToN</div>
-    </li>
-  </ul>
-</div>
 
-
-<h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Honors and Awards"></a>
+<h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Selected Awards"></a>
 <div class="publication-entry">
   <ul>
     <li>
-    National Scholarship of China, <em>2025</em>. 
+    National Scholarship, <em>China</em>, <em>2025</em>. 
     </li>
   </ul>
 </div>
@@ -267,27 +251,6 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    5th place in the international CTF competition SCTF, <em>2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Silver award in the IGEM competition, <em>2022</em> and <em>2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    5th place in Tencent’s international CTF competition TCTF/0CTF, <em>2022</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
     2nd prize in the Chinese college student CTF competition, <em>2023</em>.
     </li>
   </ul>
@@ -302,15 +265,34 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese college student CTF competition, <em>2022</em>.
+    5th place in Tencent’s international CTF competition TCTF/0CTF, <em>2022</em>.
     </li>
   </ul>
 </div>
 
+
+<h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
+<div class="publication-entry">
+  <ul>
+    <li>
+    <strong>Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
+    </li>
+  </ul>
+</div>
+<div class="publication-entry">
+  <ul>
+    <li>
+    <strong>External&nbsp;Reviewer:</strong><div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICLR&nbsp;,ICML,IEEE&nbsp;ToN</div>
+    </li>
+  </ul>
+</div>
+
+
+
 <a class="fixed-tracker" href="https://clustrmaps.com/site/1by7n" title="Visit tracker">
   <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
 </a>
-
+<!-- 
 <style>
   .fixed-tracker {
     position: fixed;
@@ -323,7 +305,7 @@ ul {
   }
 </style>
 
-<script>
+<!-- <script>
 
   const tracker = document.querySelector('.fixed-tracker');
 
@@ -338,7 +320,7 @@ ul {
     const opacity = 1 - (scrollPosition / maxScroll)*4;  
     tracker.style.opacity = Math.max(minOpacity, Math.min(opacity, maxOpacity));
   });
-</script>
+</script>  -->
 
 
 
