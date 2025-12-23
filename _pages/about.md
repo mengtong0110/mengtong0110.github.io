@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="display: flex; width: 100%; gap: 30px; align-items: center;">
+<div style="display: flex; width: 100%; gap: 10px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
 <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px; height: 195px;">
@@ -66,7 +66,7 @@ redirect_from:
   <p style="margin-bottom: 20px;">I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
   Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by Prof. <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and working with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>.</p>
 
-  <p style="margin-top: -10px;">I was the captain of CTF team 
+  <p style="margin-top: -5px;">I was the captain of CTF team 
   <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>, which ranked globally in the top 0.33%. During this time, I also served as a teaching assistant for Prof. <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>'s SEED project, mentoring young Chinese professors on classical system vulnerabilities.</p>
 </div>
 
