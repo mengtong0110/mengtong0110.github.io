@@ -28,8 +28,8 @@ layout: default
       
     {% if page.author_profile or layout.author_profile or page.sidebar %}
 
-    <div style="display: flex; justify-content: space-between; gap: 20px;">
-      <div style="flex-basis: 48%; padding: 10px;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+      <div style="padding: 10px;">
         {% if page.sidebar %}
           {% for s in page.sidebar %}
             {% if s.image %}
@@ -39,7 +39,7 @@ layout: default
           {% endfor %}
         {% endif %}
       </div>
-      <div style="flex-basis: 48%; padding: 10px;">
+      <div style="padding: 10px;">
         {% if page.author_profile or layout.author_profile %}
           {% include author-profile.html %}
         {% endif %}
@@ -59,6 +59,7 @@ layout: default
         {% endif %}
       </div>
     </div>
+    
     
 
   {% endif %} 
