@@ -30,7 +30,7 @@ redirect_from:
     </div>
     <!-- 个人链接 -->
     <div class="author__urls-wrapper">
-      <button class="btn btn--inverse" style="margin-bottom: 15px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
+      <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
         Follow
       </button>
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
