@@ -7,6 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+<div style="display: flex; width: 100%; gap: 20px;">
+          <!-- 左侧图片 -->
+          <div style="flex: 1; padding: 10px; display: flex; justify-content: center;">
+            <img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="max-width: 100%; height: auto;">
+          </div>
+          <div style="flex: 1; padding: 10px;">
+            <div itemscope itemtype="http://schema.org/Person">
+              <div class="author__content">
+                <div class="author__name">
+                  <span style="font-family: 'Times New Roman', serif; font-size: 28px;">&nbsp;Meng&nbsp;Tong</span><br>
+                  <span style="font-family: '宋体', 'SimSun', serif; font-size: 36px;">&ensp;童&ensp;&thinsp;蒙</span>
+                </div>
+                <p class="author__bio" style="font-size: 14px;">
+                  Privacy Enhancement <br> & Trustworthy ML
+                </p>
+              </div>
+            </div>
+          </div>
+</div>       
+
+
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
   I am a second-year Master student in cyberspace science at University of Science and Technology of China, advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
@@ -125,7 +148,7 @@ ul {
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
-      [USENIX Security'26]
+      [Security'26]
       </p>
       &nbsp;Membership Inference Attacks on Tokenizers of Large Language Models
       </div>
