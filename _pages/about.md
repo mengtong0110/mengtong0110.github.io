@@ -43,7 +43,7 @@ redirect_from:
           <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
-        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </li><br>
         <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
