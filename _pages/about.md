@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
   <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
-<img src="https://mengtong0110.github.io/images/profile_1.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 250px; height: auto;">
+<img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 250px; height: auto;">
   </div>
 
   <!-- 右侧文本内容 -->
@@ -36,7 +36,7 @@ redirect_from:
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
         <li style="display: inline-block; margin-right: 10px;">
           <a href="https://twitter.com/mengtong0110" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter&nbsp;
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter&nbsp;&nbsp;
           </a>
         </li>
         <li style="display: inline-block; margin-right: 10px;">
