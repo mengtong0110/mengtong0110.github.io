@@ -229,60 +229,18 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to review for <text style="font-style: italic;">AAAI</text>, <em>2025</em>.
+    Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;,IEEE&nbsp;TIFS
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-    Invited to review for <text style="font-style: italic;">ACL ARR</text>, <em>2025</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Invited to give a talk about attacks on differential privacy by <a href="https://2025.naacl.org/" style="text-decoration: none;color: #005fa3;">NAACL</a>, <em>2025</em>.
+    External&nbsp;Reviewer:&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;,ICLR&nbsp;,ICML,IEEE&nbsp;ToN
     </li>
   </ul>
 </div>
 
-<div class="publication-entry">
-  <ul>
-    <li>
-    Invited to review for <text style="font-style: italic;">IEEE TIFS</text>, <em>2024</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Invited to give a talk about differential privacy by <a href="https://www.webank.com/en/" style="text-decoration: none;color: #005fa3;">Webank</a>, <em>2024</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Teaching assistant for <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Wenliang Du</a>'s SEED project, <em>2022&nbsp;-&nbsp;2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Captain of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 137th / top 0.33% globally on CTFtime, <em>2022&nbsp;-&nbsp;2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Mentor of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 1769th / top 4.32% globally on CTFtime, <em>2021&nbsp;-&nbsp;2022</em>.
-    </li>
-  </ul>
-</div>
 
 <h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Honors and Awards"></a>
 <div class="publication-entry">
