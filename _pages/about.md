@@ -34,16 +34,6 @@ redirect_from:
         Follow
       </button>
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
-        <li style="display: inline-block; margin-right: 10px;">
-          <a href="https://twitter.com/mengtong0110" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-        <li style="display: inline-block; margin-right: 10px;">
-          <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
-            <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
-          </a>
-        </li><br>
         <!-- <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
@@ -52,6 +42,16 @@ redirect_from:
         <li style="display: inline-block; margin-right: 10px;">
           <a href="mailto:mtong@mail.ustc.edu.cn" style="text-decoration: none; font-size: 14px; color: black;">
             <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn
+          </a>
+        </li><br>
+        <li style="display: inline-block; margin-right: 10px;">
+          <a href="https://twitter.com/mengtong0110" style="text-decoration: none; font-size: 14px; color: black;">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+        <li style="display: inline-block; margin-right: 10px;">
+          <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: black;">
+            <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
         </li>
       </ul>
