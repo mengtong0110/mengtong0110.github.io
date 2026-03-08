@@ -188,7 +188,7 @@ ul {
       </p>
       &nbsp;Membership Inference Attacks on Tokenizers of Large Language Models
       </div>
-      <div class="parent"><strong>Meng Tong</strong>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a></div>
+      <div class="parent"><strong>Meng Tong</strong>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
       <div class="publication-year">In USENIX Security Symposium, 2026</div>
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
