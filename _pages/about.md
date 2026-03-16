@@ -280,14 +280,14 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;ICLR,&nbsp;CVPR,&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS</div>
+    Conference&nbsp;&&nbsp;Journal&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;ICLR,&nbsp;CVPR,&nbsp;ACL&nbsp;ARR,&nbsp;AAAI,&nbsp;IEEE&nbsp;TIFS,&nbsp;IEEE&nbsp;TDSC</div>
     </li>
   </ul>
 </div>
 <div class="publication-entry">
   <ul>
     <li>
-   External&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;EuroS&P,&nbsp;NeurIPS,&nbsp;ICML,&nbsp;ICCV,&nbsp;ACM&nbsp;TOPS,&nbsp;IEEE&nbsp;ToN</div>
+   External&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;Euro&nbsp;S&P,&nbsp;Asia&nbsp;CCS,&nbsp;NeurIPS,&nbsp;ICML,&nbsp;ICCV,&nbsp;ACM&nbsp;TOPS,&nbsp;IEEE&nbsp;ToN</div>
     </li>
   </ul>
 </div>
