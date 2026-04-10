@@ -180,7 +180,7 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 1.2em;"> Publications</h3><a name="Publications"></a>
+<h3 style="font-size: 1.2em;"> Selected Publications</h3><a name="Publications"></a>
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
