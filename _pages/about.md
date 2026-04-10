@@ -78,7 +78,7 @@ redirect_from:
 
 
 
-<!-- <h3 style="font-size: 23px;"> Education</h3><a name="Education"></a> -->
+<!-- <h3 style="font-size: 0.9em;"> Education</h3><a name="Education"></a> -->
 <style>
   body {
     font-family: 'Arial', sans-serif;
@@ -180,7 +180,7 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 23px;"> Publications</h3><a name="Publications"></a>
+<h3 style="font-size: 0.9em;"> Publications</h3><a name="Publications"></a>
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
@@ -230,7 +230,7 @@ ul {
       </div>
 </div>
 
-<h3 style="font-size: 23px;"> Journal & Conference Reviewers</h3>
+<h3 style="font-size: 0.9em;"> Journal & Conference Reviewers</h3>
 <div class="publication-entry">
   <ul>
     <li>
@@ -255,14 +255,14 @@ ul {
     The AAAI Conference on Artificial Intelligence (AAAI)
     </li>
     <li>
-    ACM Conference on Multimedia (MM)
+    ACM Conference on Multimedia (ACM MM)
     </li>
   </ul>
 </div>
 
 
 
-<h3 style="font-size: 23px;"> Selected Honors & Awards</h3>
+<h3 style="font-size: 0.9em;"> Selected Honors & Awards</h3>
 <div class="publication-entry">
   <ul>
     <li>
