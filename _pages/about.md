@@ -68,9 +68,9 @@ redirect_from:
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am a second-year Master student at University of Science and Technology of China, advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
-  <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I am currently a research assistant at Purdue University, advised by <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a> and collaborating with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a> Besides, I was the captain of CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and worked closely with <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>, contributing to SEED project.</p>
+  <p>I am a second-year Master student at University of Science and Technology of China, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
+  <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. Currently, I am  a Research Assistant at Purdue University under the supervision of <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a>, where I also collaborate with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>. I used to serve as the captain of CTF team 
+  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and worked closely with <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>, contributing to the <a href="https://seedsecuritylabs.org/" target="_blank" style="text-decoration: none; color: #005fa3;">SEED project</a>.</p>
 </div>
 
 
