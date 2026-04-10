@@ -277,7 +277,7 @@ ul {
 
 
 <h3 style="font-size: 23px;"> Professional Experiences</h3>
-<h4 style="font-size: 0.9em;"> Journal Reviewer</h4>
+<h4 style="font-size: 1.2em;"> Journal Reviewer</h4>
 <div class="publication-entry">
   <ul>
     <li>
