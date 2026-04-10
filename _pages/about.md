@@ -230,32 +230,6 @@ ul {
       </div>
 </div>
 
-
-<h3 style="font-size: 23px;"> Selected Honors & Awards</h3>
-<div class="publication-entry">
-  <ul>
-    <li>
-    National Scholarship, <em>2025</em>
-    </li>
-    <li>
-    Distinguished Graduates, <em>2024</em>
-    </li>
-    <li>
-    Honors Bachelor from Gifted Student Program, <em>2024</em>
-    </li>
-    <li>
-    2nd Prize in National University CTF Competition, <em>2023</em>
-    </li>
-    <li>
-    2nd Prize in Strong Net CTF Competition, <em>2022</em>
-    </li>
-    <li>
-    5th Place in Tencent Internation CTF Competition, <em>2022</em>
-    </li>
-  </ul>
-</div>
-
-
 <h3 style="font-size: 23px;"> Journal & Conference Reviewers</h3>
 <div class="publication-entry">
   <ul>
@@ -285,6 +259,34 @@ ul {
     </li>
   </ul>
 </div>
+
+
+
+<h3 style="font-size: 23px;"> Selected Honors & Awards</h3>
+<div class="publication-entry">
+  <ul>
+    <li>
+    National Scholarship, <em>2025</em>
+    </li>
+    <li>
+    Distinguished Graduates, <em>2024</em>
+    </li>
+    <li>
+    Honors Bachelor from Gifted Student Program, <em>2024</em>
+    </li>
+    <li>
+    2nd Prize in National University CTF Competition, <em>2023</em>
+    </li>
+    <li>
+    2nd Prize in Strong Net CTF Competition, <em>2022</em>
+    </li>
+    <li>
+    5th Place in Tencent Internation CTF Competition, <em>2022</em>
+    </li>
+  </ul>
+</div>
+
+
 
 <br>
 <div style="text-align: center;">
