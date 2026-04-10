@@ -256,9 +256,7 @@ ul {
 </div>
 
 
-<h3 style="font-size: 23px;"> Professional Experiences</h3>
-
-<h4 style="font-size: 1.0em;"> Journal Reviewer</h4>
+<h3 style="font-size: 23px;"> Journal & Conference Reviewers</h3>
 <div class="publication-entry">
   <ul>
     <li>
@@ -270,12 +268,6 @@ ul {
     <li>
     IEEE Transactions on Information Forensics and Security (TIFS)
     </li>
-  </ul>
-</div>
-
-<h4 style="font-size: 1.0em;"> Conference Reviewer</h4>
-<div class="publication-entry">
-  <ul>
     <li>
     International Conference on Learning Representations (ICLR)
     </li>
@@ -289,7 +281,7 @@ ul {
     The AAAI Conference on Artificial Intelligence (AAAI)
     </li>
     <li>
-    ACM Conference on Multimedia (ACM MM)
+    ACM Conference on Multimedia (MM)
     </li>
   </ul>
 </div>
