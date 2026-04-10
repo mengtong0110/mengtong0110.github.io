@@ -235,67 +235,61 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    National Scholarship, <em>China</em>, <em>2025</em>. 
+    National Scholarship, <em>2025</em>
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-    Distinguished Graduates, <em>USTC</em>, <em>2024</em>. 
+    Distinguished Graduates, <em>2024</em>
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>. 
+    Honors Bachelor from Gifted Student Program, <em>2024</em>
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-    2nd Prize in National University CTF Competition, <em>China</em>, <em>2023</em>.
+    2nd Prize in National University CTF Competition, <em>2023</em>
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-    2nd Prize in Strong Net CTF Competition, <em>China</em>, <em>2022</em>.
+    2nd Prize in Strong Net CTF Competition, <em>2022</em>
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-    5th Place in Tencent Internation CTF Competition, <em>Global</em>, <em>2022</em>.
+    5th Place in Tencent Internation CTF Competition, <em>2022</em>
     </li>
   </ul>
 </div>
 
 
 <h3 style="font-size: 23px;"> Professional Experiences</h3>
-<h4 style="font-size: 1.2em;"> Journal Reviewer</h4>
+
+<h4 style="font-size: 1.0em;"> Journal Reviewer</h4>
 <div class="publication-entry">
   <ul>
     <li>
-    Journal&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;IEEE&nbsp;TIP,&nbsp;IEEE&nbsp;TIFS,&nbsp;IEEE&nbsp;TDSC</div>
+    IEEE Transactions on Image Processing (TIP)
+    </li>
+    <li>
+    IEEE Transactions on Dependable and Secure Computing (TDSC)
+    </li>
+    <li>
+    IEEE Transactions on Information Forensics and Security (TIFS)
     </li>
   </ul>
 </div>
+
+<h4 style="font-size: 1.0em;"> Conference Reviewer</h4>
 <div class="publication-entry">
   <ul>
     <li>
-    Conference&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;ICLR,&nbsp;CVPR,&nbsp;ACL&nbsp;ARR,&nbsp;AAAI</div>
+    International Conference on Learning Representations (ICLR)
     </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
     <li>
-   External&nbsp;Reviewer:<div class="publication-year" style="display: inline-block;">&nbsp;Euro&nbsp;S&P,&nbsp;Asia&nbsp;CCS,&nbsp;NeurIPS,&nbsp;ICML,&nbsp;ICCV,&nbsp;ACM&nbsp;TOPS</div>
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+    </li>
+    <li>
+    Association for Computational Linguistics (ACL)
+    </li>
+    <li>
+    The AAAI Conference on Artificial Intelligence (AAAI)
+    </li>
+    <li>
+    ACM Conference on Multimedia (ACM MM)
     </li>
   </ul>
 </div>
