@@ -13,6 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
+  zoom: 1.25; /* 125% 缩放效果，等同浏览器 Ctrl++ */
   line-height: 1.5;
 
   &.overflow--hidden {
