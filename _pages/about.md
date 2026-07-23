@@ -263,13 +263,13 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    National Scholarship, China, <em>2025</em>
+    National Scholarship, <em>China</em>, <em>2025</em>
     </li>
     <li>
-    Distinguished Graduates, USTC, <em>2024</em>
+    Distinguished Graduates, <em>USTC</em>, <em>2024</em>
     </li>
     <li>
-    Honors Bachelor from Gifted Student Program, USTC, <em>2024</em>
+    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>
     </li>
     <li>
     2nd Prize in National University CTF Competition, <em>2023</em>
