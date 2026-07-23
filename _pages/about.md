@@ -66,13 +66,10 @@ redirect_from:
 </div>
 
 
+
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am a second-year Master student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and
-  <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. 
-  <!-- Currently, I am  a Research Assistant at Purdue University under the supervision of <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Ninghui Li</a>, where I also collaborate with <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a>. -->
-   I used to serve as the captain of the CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and worked closely with <a href="https://seedsecuritylabs.org/wenliangdu/" target="_blank" style="text-decoration: none; color: #005fa3;">Wenliang Du</a>, contributing to the <a href="https://seedsecuritylabs.org/" target="_blank" style="text-decoration: none; color: #005fa3;">SEED project</a>.</p>
+  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Gifted Student Program at USTC.</p>
 </div>
 
 
@@ -266,13 +263,13 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    National Scholarship, <em>2025</em>
+    National Scholarship, China, <em>2025</em>
     </li>
     <li>
-    Distinguished Graduates, <em>2024</em>
+    Distinguished Graduates, USTC, <em>2024</em>
     </li>
     <li>
-    Honors Bachelor from Gifted Student Program, <em>2024</em>
+    Honors Bachelor from Gifted Student Program, USTC, <em>2024</em>
     </li>
     <li>
     2nd Prize in National University CTF Competition, <em>2023</em>
