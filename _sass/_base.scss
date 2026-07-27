@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
 
   @include breakpoint($medium) {
-    zoom: 1.25; /* 125% 缩放效果，等同浏览器 Ctrl++，仅桌面端生效 */
+    zoom: 1.5; /* 125% 缩放效果，等同浏览器 Ctrl++，仅桌面端生效 */
   }
 
   &.overflow--hidden {
