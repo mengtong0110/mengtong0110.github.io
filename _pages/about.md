@@ -69,7 +69,8 @@ redirect_from:
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am currently a final-year master's student in Cybersecurity at <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank" style="text-decoration: none; color: #1f4b99;">USTC</a>, co-advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1f4b99;">Kejiang Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1f4b99;">Weiming Zhang</a>. I used to be a CTF player in Web and was the team captain of <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #1f4b99;">NEBULA</a>. I received my bachelor's degree from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of <a href="https://en.scgy.ustc.edu.cn/main.htm" target="_blank" style="text-decoration: none; color: #1f4b99;">Gifted Young</a>.</p>
+  <p>I am currently a final-year master's student in Cybersecurity at <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank" style="text-decoration: none; color: #1f4b99;">USTC</a>, co-advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1f4b99;">Kejiang Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1f4b99;">Weiming Zhang</a>. I received my bachelor's degree from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of <a href="https://en.scgy.ustc.edu.cn/main.htm" target="_blank" style="text-decoration: none; color: #1f4b99;">Gifted Young</a>. I enjoyed being a CTF player in Web and was the team captain of <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #1f4b99;">NEBULA</a>. 
+  </p>
 </div>
 
 
@@ -188,7 +189,7 @@ ul {
       <div class="parent"><u>Meng Tong</u>, <a href="https://zealscott.com/" style="text-decoration: none;color: black;">Yuntao Du</a>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://www.cs.purdue.edu/homes/ninghui/" style="text-decoration: none;color: black;">Ninghui Li</a></div>
       <div class="publication-year">In USENIX Security Symposium, 2026</div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
       <p style="color: #8c1515; display: inline;">
       [TL;DR: The first revelation of membership leakage from tokenizers of LLMs]
       </p>
@@ -204,7 +205,7 @@ ul {
       <div class="parent"><u>Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
       <div class="publication-year">In North American Chapter of the Association for Computational Linguistics, 2025 </div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
       <p style="color: #8c1515; display: inline;">
       [TL;DR: Establish optimal reconstruction attacks against text sanitization]
       </p>
@@ -220,7 +221,7 @@ ul {
       </div>
       <div class="publication-year">In IEEE Transactions on Dependable and Secure Computing, 2025</div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #0056b3">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #0056b3">[Code]</a>
+      <a href="https://arxiv.org/pdf/2310.12214" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
       <p style="color: #8c1515; display: inline;">
       [TL;DR: The first implementation of differential privacy in text generation of LLMs]
       </p>
