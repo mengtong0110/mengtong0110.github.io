@@ -69,7 +69,7 @@ redirect_from:
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Gifted Student Program at USTC.</p>
+  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Talent Program at USTC.</p>
 </div>
 
 
@@ -214,7 +214,7 @@ ul {
       <div class="parent" style="font-weight: bolder;">
         <p style="color: #8c1515; display: inline;">
         [TDSC'25]</p>
-        &nbsp;InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model
+        &nbsp;InferDPT: Privacy-Preserving Inference for Closed-box Large Language Models
       </div>
       <div class="parent"><u>Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a>
       </div>
