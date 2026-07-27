@@ -35,7 +35,7 @@ redirect_from:
     </div>
     <!-- 个人链接 -->
     <div class="author__urls-wrapper">
-      <!-- <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #005fa3; color: white;">
+      <!-- <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #1772d0; color: white;">
         Follow
       </button> -->
       <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
@@ -69,7 +69,9 @@ redirect_from:
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of gifted students.</p>
+  <p>I am currently a final-year master's student in Cybersecurity at <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank" style="text-decoration: none; color: #1772d0;">USTC</a>, co-advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1772d0;">Kejiang Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1772d0;">Weiming Zhang</a>.</p> 
+  
+  <p>I used to be a CTF player in Web. I was the team captain of <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #1772d0;">NEBULA</a>. I received my bachelor's degree from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of <a href="https://en.scgy.ustc.edu.cn/main.htm" target="_blank" style="text-decoration: none; color: #1772d0;">Gifted Young</a>.</p>
 </div>
 
 
@@ -163,17 +165,17 @@ ul {
 <!-- 
 <div class="cv-section">
   <div class="cv-date"><em>2025.02&nbsp;-&nbsp;Now</em>, Research Intern, Purdue</div>
-  <div class="cv-supervisor">Supervisors: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Ninghui Li</a> and <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Yuntao Du</a></div>
+  <div class="cv-supervisor">Supervisors: <a href="https://www.cs.purdue.edu/homes/ninghui/" target="_blank" style="text-decoration: none; color: #1772d0;">Prof. Ninghui Li</a> and <a href="https://zealscott.com/" target="_blank" style="text-decoration: none; color: #1772d0;">Yuntao Du</a></div>
 </div>
 
 <div class="cv-section">
   <div class="cv-date"><em>2024.09&nbsp;-&nbsp;Now</em>, Master of Cyberscience, USTC</div>
-  <div class="cv-supervisor">Supervisors: <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a></div>
+  <div class="cv-supervisor">Supervisors: <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1772d0;">Prof. Weiming Zhang</a> and <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1772d0;">Prof. Kejiang Chen</a></div>
 </div>
 
 <div class="cv-section">
   <div class="cv-date"><em>2020.09&nbsp;-&nbsp;2024.06</em>, Bachelor of Cyberscience, USTC</div>
-  <div class="cv-supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Nenghai Yu</a></div>
+  <div class="cv-supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration: none; color: #1772d0;">Prof. Nenghai Yu</a></div>
 </div> -->
 
 
