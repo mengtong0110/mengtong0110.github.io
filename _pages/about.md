@@ -69,7 +69,7 @@ redirect_from:
 
 <a name="About Me"></a>
 <div style="font-size: 0.9em; width: 90%; text-align: left;">
-  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Talent Program at USTC.</p>
+  <p>I am a final-year master's student at USTC, co-advised by <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Kejiang Chen</a> and <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Weiming Zhang</a>. I previously served as the captain of the CTF team <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a>. I received my bachelor's degree with honors from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of gifted students.</p>
 </div>
 
 
