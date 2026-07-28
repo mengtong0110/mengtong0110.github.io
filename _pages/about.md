@@ -273,7 +273,7 @@ ul {
     National Scholarship, <em>China</em>, <em>2025</em>
     </li>
     <li>
-    Distinguished Graduates, <em>USTC</em>, <em>2024</em>
+    Outstanding Graduates, <em>USTC</em>, <em>2024</em>
     </li>
     <li>
     Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>
