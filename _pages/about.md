@@ -298,6 +298,6 @@ ul {
     <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
   </a>
 </div> -->
-
-
-
+<div style="text-align: center;">
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=0KXtlB_yCaKFWMNNcbfqdalm1Z0GbcBk9w2xaWxrmkg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+</div>
