@@ -299,5 +299,5 @@ ul {
   </a>
 </div> -->
 <div style="text-align: center;">
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=0KXtlB_yCaKFWMNNcbfqdalm1Z0GbcBk9w2xaWxrmkg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=100&t=m&d=0KXtlB_yCaKFWMNNcbfqdalm1Z0GbcBk9w2xaWxrmkg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 </div>
