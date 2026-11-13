@@ -286,28 +286,28 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    ACM MM Oral Presentation, <em>2026</em>
+    ACM MM Oral Presentation, 2026
     </li>
     <li>
-    NAACL Oral Presentation, <em>2025</em>
+    NAACL Oral Presentation, 2025
     </li>
     <li>
-    National Scholarship in China, <em>2025</em>
+    National Scholarship in China, 2025
     </li>
     <li>
-    Outstanding Graduates at USTC, <em>2024</em>
+    Outstanding Graduates at USTC, 2024
     </li>
     <li>
-    Honors Bachelor from Gifted Student Program at USTC, <em>2024</em>
+    Honors Bachelor from Gifted Student Program at USTC, 2024
     </li>
     <li>
-    2nd Prize in National University CTF Competition, <em>2023</em>
+    2nd Prize in National University CTF Competition, 2023
     </li>
     <li>
-    2nd Prize in Strong Net CTF Competition, <em>2022</em>
+    2nd Prize in Strong Net CTF Competition, 2022
     </li>
     <li>
-    5th Place in Tencent Internation CTF Competition, <em>2022</em>
+    5th Place in Tencent Internation CTF Competition, 2022
     </li>
   </ul>
 </div>
