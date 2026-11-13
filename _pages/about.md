@@ -286,10 +286,10 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    MM Oral Presentation, <em>ACM</em>, <em>2026</em>
+    ACM MM Oral Presentation, <em>2026</em>
     </li>
     <li>
-    NAACL Oral Presentation, <em>ACL</em>, <em>2025</em>
+    NAACL Oral Presentation, <em>2025</em>
     </li>
     <li>
     National Scholarship, <em>China</em>, <em>2025</em>
