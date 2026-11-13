@@ -210,7 +210,7 @@ ul {
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2609.20457" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first study on fingerprinting MLLMs against unauthorized modification and distillation.]
+      [TL;DR: The first study on fingerprinting MLLMs against illicit derivation and distillation.]
       </p>
       </div>
 </div>
