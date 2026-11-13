@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 
 <div style="display: flex; width: 100%; gap: 30px; align-items: center;">
   <!-- 左侧图片 -->
