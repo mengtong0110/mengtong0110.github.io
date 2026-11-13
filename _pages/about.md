@@ -201,7 +201,7 @@ ul {
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
-      [MM’26, Oral]
+      [MM’26, Oustanding Paper Award]
       </p>
       &nbsp;Fingerprinting Multimodal Large Language Models
       </div>
@@ -250,7 +250,10 @@ ul {
 
 <h3 style="font-size: 1.1em;"> Selected Honors & Awards</h3>
 <div class="publication-entry">
-  <ul>
+  <ul>  
+  <li>
+    ACM MM Oustanding Paper Award, <em>2026</em>
+    </li>
     <li>
     ACM MM Oral Presentation, <em>2026</em>
     </li>
