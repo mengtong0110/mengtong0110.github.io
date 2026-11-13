@@ -205,12 +205,12 @@ ul {
       </p>
       &nbsp;Fingerprinting Multimodal Large Language Models
       </div>
-      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: black;">Chao Huang (my student)</a>, <u>Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a></div>
+      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: black;">Chao Huang (supervised)</a>, <u>Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a></div>
       <div class="publication-year">ACM International Conference on Multimedia, 2026</div>
       <div style="font-size: 90%;">
-      <a href="https://arxiv.org/pdf/2510.05699" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="https://github.com/mengtong0110/Tokenizer-MIA" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
+      <a href="https://arxiv.org/pdf/2609.20457" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
       <p style="color: #8c1515; display: inline;">
-      [TL;DR: The first study on fingerprinting of multimodal LLMs]
+      [TL;DR: The first study on fingerprinting MLLMs against unauthorized modification and distillation.]
       </p>
       </div>
 </div>
@@ -286,28 +286,28 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-    ACM MM Oral Presentation, 2026
+    MM Oral Presentation, <em>ACM</em>, <em>2026</em>
     </li>
     <li>
-    NAACL Oral Presentation, 2025
+    NAACL Oral Presentation, <em>ACL</em>, <em>2025</em>
     </li>
     <li>
-    National Scholarship in China, 2025
+    National Scholarship, <em>China</em>, <em>2025</em>
     </li>
     <li>
-    Outstanding Graduates at USTC, 2024
+    Outstanding Graduates, <em>USTC</em>, <em>2024</em>
     </li>
     <li>
-    Honors Bachelor from Gifted Student Program at USTC, 2024
+    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>
     </li>
     <li>
-    2nd Prize in National University CTF Competition, 2023
+    2nd Prize in National University CTF Competition, <em>2023</em>
     </li>
     <li>
-    2nd Prize in Strong Net CTF Competition, 2022
+    2nd Prize in Strong Net CTF Competition, <em>2022</em>
     </li>
     <li>
-    5th Place in Tencent Internation CTF Competition, 2022
+    5th Place in Tencent Internation CTF Competition, <em>2022</em>
     </li>
   </ul>
 </div>
