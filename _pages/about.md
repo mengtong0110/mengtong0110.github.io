@@ -181,7 +181,7 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 1.0em;"> Selected Publications</h3>
+<h3 style="font-size: 1.1em;"> Selected Publications</h3>
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
@@ -248,7 +248,7 @@ ul {
 </div>
 
 
-<h3 style="font-size: 1.0em;"> Selected Honors & Awards</h3>
+<h3 style="font-size: 1.1em;"> Selected Honors & Awards</h3>
 <div class="publication-entry">
   <ul>
     <li>
@@ -279,7 +279,7 @@ ul {
 </div>
 
 
-<h3 style="font-size: 1.0em;"> Journal & Conference Reviewers</h3>
+<h3 style="font-size: 1.1em;"> Journal & Conference Reviewers</h3>
 <div class="publication-entry">
   <ul>
     <li>
