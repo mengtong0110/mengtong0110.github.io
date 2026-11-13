@@ -247,6 +247,38 @@ ul {
       </div>
 </div>
 
+
+<h3 style="font-size: 1.2em;"> Selected Honors & Awards</h3><a name="Publications"></a>
+<div class="publication-entry">
+  <ul>
+    <li>
+    ACM MM Oral Presentation, <em>2026</em>
+    </li>
+    <li>
+    NAACL Oral Presentation, <em>2025</em>
+    </li>
+    <li>
+    National Scholarship, <em>China</em>, <em>2025</em>
+    </li>
+    <li>
+    Outstanding Graduates, <em>USTC</em>, <em>2024</em>
+    </li>
+    <li>
+    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>
+    </li>
+    <li>
+    2nd Prize in National University CTF Competition, <em>2023</em>
+    </li>
+    <li>
+    2nd Prize in Strong Net CTF Competition, <em>2022</em>
+    </li>
+    <li>
+    5th Place in Tencent Internation CTF Competition, <em>2022</em>
+    </li>
+  </ul>
+</div>
+
+
 <h3 style="font-size: 1.2em;"> Journal & Conference Reviewers</h3><a name="Publications"></a>
 <div class="publication-entry">
   <ul>
@@ -276,38 +308,6 @@ ul {
     </li>
     <li>
     AEC, ACM Conference on Computer and Communications Security (CCS) 
-    </li>
-  </ul>
-</div>
-
-
-
-<h3 style="font-size: 1.2em;"> Selected Honors & Awards</h3><a name="Publications"></a>
-<div class="publication-entry">
-  <ul>
-    <li>
-    ACM MM Oral Presentation, <em>2026</em>
-    </li>
-    <li>
-    NAACL Oral Presentation, <em>2025</em>
-    </li>
-    <li>
-    National Scholarship, <em>China</em>, <em>2025</em>
-    </li>
-    <li>
-    Outstanding Graduates, <em>USTC</em>, <em>2024</em>
-    </li>
-    <li>
-    Honors Bachelor from Gifted Student Program, <em>USTC</em>, <em>2024</em>
-    </li>
-    <li>
-    2nd Prize in National University CTF Competition, <em>2023</em>
-    </li>
-    <li>
-    2nd Prize in Strong Net CTF Competition, <em>2022</em>
-    </li>
-    <li>
-    5th Place in Tencent Internation CTF Competition, <em>2022</em>
     </li>
   </ul>
 </div>
