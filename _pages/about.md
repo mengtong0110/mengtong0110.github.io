@@ -204,7 +204,7 @@ ul {
       </p>
       &nbsp;Fingerprinting Multimodal Large Language Models
       </div>
-      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang</a><span style="font-size: 0.7em; color: #555555; font-weight: normal; margin-left: 8px;">(mentored student)</span>, <u style="text-decoration: none; color: black ;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
+      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang (mentored student)</a>, <u style="text-decoration: none; color: black ;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
       <div class="publication-year">ACM International Conference on Multimedia, 2026</div>
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2609.20457" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
