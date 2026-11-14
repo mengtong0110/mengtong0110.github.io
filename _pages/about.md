@@ -181,8 +181,9 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 1.1em;">Selected Publications <span style="font-size: 0.78em; color: #333333; font-weight: normal; margin-left: 8px;">&nbsp;&nbsp;* indicates student mentored by me</span></h3><div class="publication-entry">
-  <div class="parent" style="font-weight: bolder;">
+<h3 style="font-size: 1.1em; margin-bottom: 4px;">Selected Publications</h3>
+<div style="font-size: 0.8em; color: #333333; margin-bottom: 12px;">* indicates mentored student</div>  
+<div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
       [Security’26]
       </p>
@@ -204,7 +205,7 @@ ul {
       </p>
       &nbsp;Fingerprinting Multimodal Large Language Models
       </div>
-      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang</a>, <u style="text-decoration: none; color: black ;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
+      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang*</a>, <u style="text-decoration: none; color: black ;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
       <div class="publication-year">ACM International Conference on Multimedia, 2026</div>
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2609.20457" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
