@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-<div style="display: flex; width: 95%; justify-content: center; align-items: center; gap: 60px;">
+<div style="display: flex; width: 100%; justify-content: center; align-items: center; gap: 60px; transform: translateX(-20px);">
   <!-- 左侧图片 -->
   <div style="padding: 10px; display: flex; justify-content: center; align-items: center;">
     <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px;" id="profile-img">
@@ -67,7 +67,7 @@ redirect_from:
 
 
 <a name="About Me"></a>
-<div style="font-size: 0.9em; width: 100%; text-align: left;">
+<div style="font-size: 0.9em; width: 95%; text-align: left;">
   <p>I am currently a final-year Master's candidate in cybersecurity at <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank" style="text-decoration: none; color: #1f4b99;">USTC</a>, co-advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1f4b99;">Kejiang Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1f4b99;">Weiming Zhang</a>. I received my bachelor's degree from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of <a href="https://en.scgy.ustc.edu.cn/main.htm" target="_blank" style="text-decoration: none; color: #1f4b99;">Gifted Young</a>. I enjoyed being a CTF player in Web and was the team captain of <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #1f4b99;">NEBULA</a>. 
   </p>
 <p style="font-style: italic; color: #555555; margin-top: 12px;">
