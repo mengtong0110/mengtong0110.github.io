@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
  
-
-<div style="display: flex; width: 100%; gap: 30px; align-items: center;">
+<div style="display: flex; width: 100%; justify-content: center; align-items: center; gap: 60px;">
   <!-- 左侧图片 -->
-  <div style="flex: 0.5; padding: 10px; display: flex; justify-content: center; align-items: center;">
-<img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px; margin-right: 30px;" id="profile-img">
-
-<script>
-  const img = document.getElementById('profile-img');
-  img.style.height = img.offsetWidth * 0.98 + 'px';
-</script>
+  <div style="padding: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px;" id="profile-img">
+    <script>
+      const img = document.getElementById('profile-img');
+      img.style.height = img.offsetWidth * 0.98 + 'px';
+    </script>
   </div>
 
   <!-- 右侧文本内容 -->
-  <div style="flex: 0.5; padding: 10px; display: flex; flex-direction: column; justify-content: center; margin-right: 30px;">
+  <div style="padding: 10px; display: flex; flex-direction: column; justify-content: center;">
+    <!-- 原来的 author__content 和 author__urls-wrapper 保持不变 -->
     <div class="author__content">
       <div class="author__name" style="font-family: 'Times New Roman', serif; font-size: 28px; font-weight: bold; margin-bottom: 10px;">
         Meng Tong
@@ -68,7 +67,7 @@ redirect_from:
 
 
 <a name="About Me"></a>
-<div style="font-size: 0.9em; width: 91%; text-align: left;">
+<div style="font-size: 0.9em; width: 100%; text-align: left;">
   <p>I am currently a final-year Master's candidate in cybersecurity at <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" target="_blank" style="text-decoration: none; color: #1f4b99;">USTC</a>, co-advised by Prof. <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #1f4b99;">Kejiang Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #1f4b99;">Weiming Zhang</a>. I received my bachelor's degree from the Talent Program at USTC, where I had the privilege of studying alongside a cohort of <a href="https://en.scgy.ustc.edu.cn/main.htm" target="_blank" style="text-decoration: none; color: #1f4b99;">Gifted Young</a>. I enjoyed being a CTF player in Web and was the team captain of <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #1f4b99;">NEBULA</a>. 
   </p>
 <p style="font-style: italic; color: #555555; margin-top: 12px;">
