@@ -251,7 +251,7 @@ ul {
 <div class="publication-entry">
   <ul>  
   <li>
-    ACM MM Oustanding Paper Award, <em>2026</em>
+    ACM MM Outstanding Paper Award, <em>2026</em>
     </li>
     <li>
     ACM MM Oral Presentation, <em>2026</em>
