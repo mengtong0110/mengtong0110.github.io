@@ -181,9 +181,8 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 1.1em; margin-bottom: 4px;">Selected Publications</h3>
-<div style="font-size: 0.8em; color: #333333; margin-bottom: 12px;">* indicates mentored student</div>  
-<div class="parent" style="font-weight: bolder;">
+<h3 style="font-size: 1.1em;">Selected Publications <span style="font-size: 0.7em; color: #555555; font-weight: normal; margin-left: 8px;">&nbsp;&nbsp;* indicates mentored student</span></h3><div class="publication-entry">
+  <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
       [Security’26]
       </p>
