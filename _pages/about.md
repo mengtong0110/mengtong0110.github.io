@@ -182,6 +182,9 @@ ul {
 
 
 <h3 style="font-size: 1.1em;"> Selected Publications</h3>
+<p style="font-size: 90%; color: #555555; margin-top: -10px; margin-bottom: 15px;">
+  * indicates mentored student.
+</p>
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
@@ -199,13 +202,13 @@ ul {
       </div>
 </div>
 <div class="publication-entry">
-  <div class="parent" style="font-weight: bolder;">
+<div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
-      [MM’26, Oustanding Paper Award]
+      [MM’26, Outstanding Paper Award]
       </p>
       &nbsp;Fingerprinting Multimodal Large Language Models
       </div>
-      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang (supervised)</a>, <u style="text-decoration: none; color: black ;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
+      <div class="parent"><a href="https://bddk520.github.io/" style="text-decoration: none;color: #333333;">Chao Huang</a>*, <u style="text-decoration: underline; color: black;">Meng Tong</u>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: #333333;">Kejiang Chen</a></div>
       <div class="publication-year">ACM International Conference on Multimedia, 2026</div>
       <div style="font-size: 90%;">
       <a href="https://arxiv.org/pdf/2609.20457" target="_blank" style="text-decoration: none; color: #1f4b99">[Paper]</a>&nbsp;<a href="" target="_blank" style="text-decoration: none; color: #1f4b99">[Code]</a>
@@ -213,7 +216,6 @@ ul {
       [TL;DR: The first provenance method for MLLMs against illicit derivation and distillation]
       </p>
       </div>
-</div>
 <div class="publication-entry">
       <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
