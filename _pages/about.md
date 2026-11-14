@@ -181,7 +181,9 @@ ul {
 </div> -->
 
 
-<h3 style="font-size: 1.1em;">Selected Publications </h3><div class="publication-entry">
+<h3 style="font-size: 1.1em;">Selected Publications </h3>
+
+<div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
       [Security’26]
@@ -195,8 +197,14 @@ ul {
       <p style="color: #8c1515; display: inline;">
       [TL;DR: The first revelation of membership leakage from tokenizers of LLMs]
       </p>
-      </div>
+      <div style="font-size: 90%; color: #444444; margin-top: 2px;">
+    <strong style="color: #333333;">Impact:</strong> Featured in 
+    <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP</a>, 
+    expanding the threat surface (Req. 11.2.5) and showing standard mitigations (DP training, output calibration) fail.
+  </div>
+  </div>
 </div>
+
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
