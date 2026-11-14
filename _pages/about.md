@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-<div style="display: flex; width: 100%; justify-content: center; align-items: center; gap: 60px;">
+<div style="display: flex; width: 95%; justify-content: center; align-items: center; gap: 60px;">
   <!-- 左侧图片 -->
   <div style="padding: 10px; display: flex; justify-content: center; align-items: center;">
     <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px;" id="profile-img">
