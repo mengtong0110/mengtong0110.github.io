@@ -203,7 +203,7 @@ ul {
   </div>
   </div>
 </div>
-<br>
+
 <div class="publication-entry">
   <div class="parent" style="font-weight: bolder;">
       <p style="color: #8c1515; display: inline;">
