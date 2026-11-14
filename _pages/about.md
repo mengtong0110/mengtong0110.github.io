@@ -197,10 +197,10 @@ ul {
       <p style="color: #8c1515; display: inline;">
       [TL;DR: The first revelation of membership leakage from tokenizers of LLMs]
       </p>
-      <div style="font-size: 100%; color: #444444; margin-top: 2px;">
-    <strong style="color: #333333;">Impact:</strong> Featured in 
-    <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP</a>, 
-    expanding the threat surface (Req. 11.2.5) and showing standard mitigations fail.
+    <div style="font-size: 100%; color: #444444; margin-top: 2px;">
+    <strong style="color: #333333;">Impact:</strong> Featured in the 
+    <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP Artificial Intelligence Security Verification Standard</a>, 
+    expanding the threat surface for MIA auditing (Req. 11.2.5).
   </div>
   </div>
 </div>
