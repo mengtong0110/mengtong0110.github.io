@@ -197,7 +197,7 @@ ul {
       <p style="color: #8c1515; display: inline;">
       [TL;DR: The first revelation of membership leakage from tokenizers of LLMs]
       </p>
- <div style="font-size: 95%; color: #444444; margin-top: 2px;">
+ <div style="font-size: 100%; color: #444444; margin-top: 2px;">
     <strong style="color: #333333;">Impact:</strong> Featured in 
     <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP</a>’s AI security standard (Req. 11.2.5), expanding the threat surface for MIA auditing.
   </div>
@@ -282,7 +282,7 @@ ul {
     2nd Prize in Strong Net CTF Competition, <em>2022</em>
     </li>
     <li>
-    5th Place in Tencent Internation CTF Competition, <em>2022</em>
+    5th Place in Tencent International CTF Competition, <em>2022</em>
     </li>
   </ul>
 </div>
