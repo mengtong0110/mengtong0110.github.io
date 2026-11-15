@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
  
-<div style="display: flex; width: 100%; justify-content: center; align-items: center; gap: 80px; transform: translateX(-40px);">
+<!-- 顶层响应式容器：加入 flex-wrap 以支持移动端自动换行 -->
+<div style="display: flex; width: 100%; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <div style="padding: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 200px;" id="profile-img">
+  <div style="padding: 10px; display: flex; justify-content: center; align-items: center; flex-shrink: 0;">
+    <img src="https://mengtong0110.github.io/images/profile_2.jpg" class="author__avatar" alt="Meng Tong's Avatar" style="width: 180px; max-width: 100%;" id="profile-img">
     <script>
       const img = document.getElementById('profile-img');
       img.style.height = img.offsetWidth * 0.98 + 'px';
@@ -19,16 +20,16 @@ redirect_from:
   </div>
 
   <!-- 右侧文本内容 -->
-  <div style="padding: 10px; display: flex; flex-direction: column; justify-content: center;">
+  <div style="padding: 10px; display: flex; flex-direction: column; justify-content: center; text-align: left;">
     <!-- 原来的 author__content 和 author__urls-wrapper 保持不变 -->
     <div class="author__content">
-      <div class="author__name" style="font-family: 'Times New Roman', serif; font-size: 28px; font-weight: bold; margin-bottom: 10px;">
+      <div class="author__name" style="font-family: 'Times New Roman', serif; font-size: 28px; font-weight: bold; margin-bottom: 5px;">
         Meng Tong
       </div>
-      <div class="author__name" style="font-family: 'SimSun', serif; font-size: 36px; font-weight: bold; margin-bottom: 10px;">
+      <div class="author__name" style="font-family: 'SimSun', serif; font-size: 34px; font-weight: bold; margin-bottom: 10px;">
         童 蒙
       </div>
-      <p class="author__bio" style="font-size: 14px; line-height: 1.6; margin-bottom: 20px;">
+      <p class="author__bio" style="font-size: 14px; line-height: 1.6; margin-bottom: 15px;">
         Privacy Enhancement <br> & Trustworthy Machine Learning
       </p>
     </div>
@@ -37,30 +38,29 @@ redirect_from:
       <!-- <button class="btn btn--inverse" style="margin-bottom: 5px; padding: 10px 20px; font-size: 14px; border-radius: 5px; background-color: #1f4b99; color: white;">
         Follow
       </button> -->
-      <ul class="author__urls social-icons" style="list-style: none; padding-left: 0;">
+      <ul class="author__urls social-icons" style="list-style: none; padding-left: 0; margin: 0;">
         <!-- <li style="display: inline-block; margin-right: 10px;">
           <a href="https://mengtong0110.github.io/wechat.jpg" style="text-decoration: none; font-size: 14px; color: #333333;">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat
           </a>
         </li> -->
-        <li style="display: inline-block; margin-right: 10px;">
+        <li style="display: inline-block; margin-right: 15px; margin-bottom: 5px;">
           <a href="mailto:mtong@mail.ustc.edu.cn" style="text-decoration: none; font-size: 14px; color: #333333;">
             <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mtong@mail.ustc.edu.cn
           </a>
-        </li><br>
-        <li style="display: inline-block; margin-right: 10px;">
+        </li>
+        <li style="display: inline-block; margin-right: 15px; margin-bottom: 5px;">
           <a href="https://twitter.com/mengtong0110" style="text-decoration: none; font-size: 14px; color: #333333;">
             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
-        <li style="display: inline-block; margin-right: 10px;">
+        <li style="display: inline-block; margin-right: 15px; margin-bottom: 5px;">
           <a href="https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ" style="text-decoration: none; font-size: 14px; color: #333333;">
             <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
           </a>
         </li>
       </ul>
     </div>
-    
   </div>
 </div>
 
@@ -199,8 +199,8 @@ ul {
  <div style="font-size: 100%; color: #444444; margin-top: 2px;">
     <strong style="color: #333333;">Impact:</strong> Featured in 
     <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP</a>’s AI security standard (Req. 11.2.5), expanding the threat surface for MIA auditing.
-  </div>
-  </div>
+ </div>
+ </div>
 </div>
 
 <div class="publication-entry">
@@ -319,16 +319,3 @@ ul {
     </li>
   </ul>
 </div>
-
-
-
-<!-- <br>
-<div style="text-align: center;">
-  <a class="fixed-tracker" href="https://clustrmaps.com/site/1by7n" title="Visit tracker">
-    <img src="//www.clustrmaps.com/map_v2.png?d=9MjTsnBQZ0b88OSOyJkLyswPHQ3uLrUakE0ZL3JRXFM&cl=ffffff" />
-  </a>
-</div> -->
-<!-- <br>
-<div style="text-align: center;">
-<a href='https://mapmyvisitors.com/web/1c7fz'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=249&t=m&d=0KXtlB_yCaKFWMNNcbfqdalm1Z0GbcBk9w2xaWxrmkg&co=2d78ad&ct=ffffff'/></a>
-</div> -->
