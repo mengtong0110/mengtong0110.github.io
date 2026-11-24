@@ -198,7 +198,7 @@ ul {
       </p>
  <div style="font-size: 100%; color: #444444; margin-top: 2px;">
     <strong style="color: #333333;">Impact:</strong> 
-    Threat formally featured in <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP AISVS</a>, with mitigation and auditing guidelines adopted into <a href="https://github.com/google/sentencepiece" target="_blank" style="text-decoration: none; color: #1f4b99">Google SentencePiece</a>.
+    Threat featured in <a href="https://github.com/OWASP/AISVS/blob/main/1.0/research/chapters/C11-Adversarial-Robustness/C11-02-Membership-Inference-Model-Inversion-Mitigation.md" target="_blank" style="text-decoration: none; color: #1f4b99">OWASP AISVS</a>, with auditing guidelines adopted into <a href="https://github.com/google/sentencepiece" target="_blank" style="text-decoration: none; color: #1f4b99">Google SentencePiece</a>.
  </div>
  </div>
 </div>
